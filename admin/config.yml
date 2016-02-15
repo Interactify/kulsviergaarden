@@ -38,6 +38,7 @@ collections: # A list of collections the CMS should be able to edit
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields: # The fields each document in this collection have
+      - {label: "Billede", name: "content_image", widget: "image", optional: true}
       - {label: "Overskrift", name: "title", widget: "string", tagname: "h1"}
       - {label: "Nyhed", name: "body", widget: "markdown"}
       - {label: "Kategori", name: "categories", widget: "string"}

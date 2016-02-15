@@ -29,7 +29,10 @@ orderby: 1
 <div class="post">
 
   <article class="post-content">
-    <b>{{ post.title }}</b>
+    {% if post.content_image != null %}
+        <img src="{{ post.content_image }}" alt="{{ post.title }}">
+    {% endif }
+    <b>{{ post.title %}</b>
     {{ post.content }}
   </article>
 
