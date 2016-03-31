@@ -1,6 +1,6 @@
 ---
 title: Fest på Kulsviergården
-content-image: /images/uploads/pulledpork.png
+content-image: /images/uploads/091.jpg
 cmsUserSlug: fest-p-kulsviergrden
 date: now
 permalink: /fest/
