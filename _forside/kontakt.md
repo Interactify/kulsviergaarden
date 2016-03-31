@@ -2,7 +2,7 @@
 title: Kontakt
 content-image: /images/uploads/kort.jpg
 cmsUserSlug: kontakt
-date: 2016-01-01 
+date: 2016-03-31 
 permalink: /Kontakt/
 layout: default
 menu-name: Kontakt
