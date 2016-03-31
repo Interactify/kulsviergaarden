@@ -8,7 +8,7 @@ layout: default
 menu-name: Kontakt
 ---
 
-**Adressesylve**
+**Adresse**
 
 Kulsviergården  
 Pibe Møllevej 7  
