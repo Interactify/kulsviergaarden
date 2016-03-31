@@ -1,6 +1,6 @@
 ---
 title: Fest på Kulsviergården
-content-image: /images/uploads/091.jpg
+content-image: /images/uploads/forside-banner.jpg
 cmsUserSlug: fest-p-kulsviergrden
 date: now
 permalink: /fest/
