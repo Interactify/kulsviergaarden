@@ -2,7 +2,7 @@
 title: Kontakt
 content-image: /images/uploads/kort.jpg
 cmsUserSlug: kontakt
-date: 2015-10-29T00:00:00.000Z
+date: 2016-01-01 
 permalink: /Kontakt/
 layout: default
 menu-name: Kontakt
@@ -10,7 +10,6 @@ menu-name: Kontakt
 
 **Adresse**
 
-HOMO
 Kulsviergården  
 Pibe Møllevej 7  
 Alsønderup  
