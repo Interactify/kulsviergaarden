@@ -2,7 +2,6 @@
 title: Fest på Kulsviergården
 content-image: /images/uploads/forside-banner.jpg
 cmsUserSlug: fest-p-kulsviergrden
-date: now
 permalink: /fest/
 layout: default
 menu-name: Fest på Kulsviergården
