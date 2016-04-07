@@ -2,7 +2,7 @@
 title: Kontakt
 content-image: /images/uploads/kort.jpg
 cmsUserSlug: kontakt
-date: 2016-04-07 
+date: 2016-03-31T00:00:00.000Z
 permalink: /Kontakt/
 layout: default
 menu-name: Kontakt
@@ -11,7 +11,7 @@ menu-name: Kontakt
 **Adresse**
 
 Kulsviergården  
-Pibe Møllevej 7  
+Pibe Møllevej 7oo  
 Alsønderup  
 3400 Hillerød  
 Tlf.: 48 28 65 40
