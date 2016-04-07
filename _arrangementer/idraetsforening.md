@@ -1,7 +1,7 @@
 ---
 title: Idrætsforening
 content-image: /images/uploads/skating.jpg
-cmsUserSlug: Idrætsforening
+cmsUserSlug: idrtsforening
 date: 2015-10-28T12:00:00.000Z
 permalink: /arrangementer/idraetsforening/
 layout: default
