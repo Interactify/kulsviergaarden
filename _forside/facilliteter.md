@@ -1,11 +1,11 @@
 ---
 title: Faciliteter på Kulsviergården
+content-image: /images/uploads/forside-banner.jpg
 cmsUserSlug: en-perle-i-nordsjlland
 date: 2015-10-29T12:00:00.000Z
-permalink: "/facilliteter/"
+permalink: /facilliteter/
 layout: default
-content-image:
-menu-name:
+menu-name: null
 ---
 
 Arrangementer fra 20-500 pers.
@@ -18,11 +18,10 @@ Malermester Jensen Stue: 24 personer
 Sportshallen: 500 personer
 
 Mad og drikke 
-Kulsviergården har indgået et tæt og godt samarbejde med     [Coq'ens Gourmet][gourmet], som kan tilbyde at stå for hele jeres arrangement, 
-hvad enten det er et privat eller firmaarrangement.
+Kulsviergården har indgået et tæt og godt samarbejde med ""Et spørgsmål om smag" v/ Stefan Bjerregaard Pedersen, som kan tilbyde at stå for hele jeres arrangement, hvad enten det er et privat eller firmaarrangement.
 
 Køkken
-Kulsviergården har et stort, professionelt industrikøkken, som du kan leje til dine arrangementer mod en mindre merydelse.
+[Kulsviergaarden] har et stort, professionelt industrikøkken, som du kan leje til dine arrangementer mod en mindre merydelse.
 
 Toiletter
 Gæstetoiletter: 18 stk.
@@ -32,7 +31,7 @@ Handicapforhold
 Vores lokaler er handicapvenlige uden dørtrin, ligesom vi også både har handicapparkering og handicaptoilet. 
 
 Parkeringsmuligheder
-Kulsviergården råder over 200 parkeringspladser inkl. handicapparkering. Afstand: 10 meter.
+Kulsviergården råder over 200 parkeringspladser link. handicapparkering. Afstand: 10 meter.
 
 Offentlig transport
 Bus 380R - ca. 200 meter.
@@ -46,3 +45,4 @@ AV-udstyr
 Trådløst internet
 
 [gourmet]: http://www.kokkensmad.dk
+[Kulsviergaarden]: http://www.kulsviergaarden.dk
