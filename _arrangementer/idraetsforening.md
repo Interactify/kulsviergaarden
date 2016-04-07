@@ -12,6 +12,6 @@ Alsønderup har Idrætsforening har en lang række afdelinger, som har tilbud ti
 
 Badminton, Fodbold, Gymnastik, Rulleskøjteløb, Teater, Floorball og Skumtennis.
 
-Information om Idrætsforeningens enkelte afdelinger kan findes ved at besøge [Alsønderup Idrætsforenings hjemmeside][als].
+Information om Idrætsforeningens enkelte afdelinger kan findes ved at besøge [Alsønderup Idrætsforenings hjemmeside][als]
 
-[als]: http://www.asgi.dk/
+[als]:http://asgi.dk
