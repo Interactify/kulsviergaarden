@@ -28,13 +28,16 @@ Kulsviergården har indgået et tæt og godt samarbejde med "Et spørgsmål om s
 Kulsviergården har et stort, professionelt industrikøkken, som du kan leje til dine arrangementer mod en mindre merydelse.
 
 **Toiletter**
+
 Gæstetoiletter: 18 stk.
 Handicaptoilet: 1 stk.
 
 **Handicapforhold**
+
 Vores lokaler er handicapvenlige uden dørtrin, ligesom vi også både har handicapparkering og handicaptoilet. 
 
 **Parkeringsmuligheder**
+
 Kulsviergården råder over 200 parkeringspladser link. handicapparkering. Afstand: 10 meter.
 
 **Offentlig transport**
