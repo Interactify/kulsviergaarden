@@ -1,7 +1,7 @@
 ---
 title: Faciliteter på Kulsviergården
 content-image: /images/uploads/forside-banner.jpg
-cmsUserSlug: Faciliteter-p-Kulsviergrden
+cmsUserSlug: faciliteter-p-kulsviergrden
 date: 2016-04-06T00:00:00.000Z
 permalink: /facilliteter/
 layout: default
