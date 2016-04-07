@@ -2,7 +2,7 @@
 title: Faciliteter på Kulsviergården
 content-image: /images/uploads/forside-banner.jpg
 cmsUserSlug: en-perle-i-nordsjlland
-date: 2016-04-07 
+date: 2016-04-06 
 permalink: /facilliteter/
 layout: default
 menu-name: ""
