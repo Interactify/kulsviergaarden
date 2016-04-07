@@ -18,7 +18,7 @@ Malermester Jensen Stue: 24 personer
 Sportshallen: 500 personer
 
 Mad og drikke 
-Kulsviergården har indgået et tæt og godt samarbejde med ""Et spørgsmål om smag" v/ Stefan Bjerregaard Pedersen, som kan tilbyde at stå for hele jeres arrangement, hvad enten det er et privat eller firmaarrangement.
+Kulsviergården har indgået et tæt og godt samarbejde med "Et spørgsmål om smag" v/ Stefan Bjerregaard Pedersen, som kan tilbyde at stå for hele jeres arrangement, hvad enten det er et privat eller firmaarrangement.
 
 Køkken
 [Kulsviergaarden] har et stort, professionelt industrikøkken, som du kan leje til dine arrangementer mod en mindre merydelse.
