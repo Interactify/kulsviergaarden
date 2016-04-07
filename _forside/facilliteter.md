@@ -25,7 +25,7 @@ Kulsviergården har indgået et tæt og godt samarbejde med "Et spørgsmål om s
 
 Køkken
 
-[Kulsviergaarden] har et stort, professionelt industrikøkken, som du kan leje til dine arrangementer mod en mindre merydelse.
+Kulsviergården har et stort, professionelt industrikøkken, som du kan leje til dine arrangementer mod en mindre merydelse.
 
 Toiletter
 Gæstetoiletter: 18 stk.
