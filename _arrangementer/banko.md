@@ -1,6 +1,6 @@
 ---
 title: Banko
-content-image:
+content-image: /images/uploads/soren-poppe.jpg
 cmsUserSlug: banko
 date: 2015-10-28T12:00:00.000Z
 permalink: /arrangementer/banko/
