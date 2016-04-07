@@ -43,5 +43,3 @@ Borde
 Mødefaciliteter
 AV-udstyr
 Trådløst internet
-
-[Kulsviergaarden]: http://www.kulsviergaarden.dk
