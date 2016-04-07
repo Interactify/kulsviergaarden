@@ -3,7 +3,7 @@ content_image: null
 title: Banko nu både mandag og fredag
 categories: Nyheder
 cmsUserSlug: nyheder
-date: 2015-08-26T19:55:04.000Z
+date: 2016-03-30 
 layout: default
 ---
 
