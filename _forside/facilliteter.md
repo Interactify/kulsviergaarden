@@ -5,7 +5,7 @@ cmsUserSlug: en-perle-i-nordsjlland
 date: 2015-10-29T12:00:00.000Z
 permalink: /facilliteter/
 layout: default
-menu-name: null
+menu-name: ""
 ---
 
 Arrangementer fra 20-500 pers.
@@ -44,5 +44,4 @@ Mødefaciliteter
 AV-udstyr
 Trådløst internet
 
-[gourmet]: http://www.kokkensmad.dk
 [Kulsviergaarden]: http://www.kulsviergaarden.dk
