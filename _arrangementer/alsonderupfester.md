@@ -1,5 +1,5 @@
 ---
-title: Alsonderup fester
+title: Alsønderup fester
 content-image: /images/uploads/alsonderup_banner.jpg
 cmsUserSlug: alsonderup-fester
 date: 2015-10-28T12:00:00.000Z
