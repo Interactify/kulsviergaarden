@@ -5,7 +5,7 @@ cmsUserSlug: banko
 date: 2015-10-28T12:00:00.000Z
 permalink: /arrangementer/banko/
 layout: default
-menu-name: banko
+menu-name: Banko
 ---
 
 Der spilles nu banko både mandage og fredage her på 
