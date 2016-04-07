@@ -20,7 +20,7 @@ Sportshallen: 500 personer
 
 **Mad og drikke** 
 
-Kulsviergården har indgået et tæt og godt samarbejde med     [Coq'ens Gourmet][gourmet], som kan tilbyde at stå for hele jeres arrangement, 
+Kulsviergården har indgået et tæt og godt samarbejde med Stefan, som kan tilbyde at stå for hele jeres arrangement, 
 hvad enten det er et privat eller firmaarrangement.
 
 **Køkken**
@@ -52,5 +52,3 @@ Bus 380R - ca. 200 meter.
 Mødefaciliteter
 AV-udstyr
 Trådløst internet
-
-[gourmet]: http://www.kokkensmad.dk
