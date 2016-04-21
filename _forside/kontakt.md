@@ -3,9 +3,9 @@ title: Kontakt
 content-image: /images/uploads/kort.jpg
 cmsUserSlug: kontakt
 date: 2016-03-31T00:00:00.000Z
-permalink: /kontakt/
+permalink: /kontakt
 layout: default
-menu-name: kontakt
+menu-name: ""
 ---
 
 **Adresse**
