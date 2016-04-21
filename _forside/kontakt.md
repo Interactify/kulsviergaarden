@@ -17,3 +17,7 @@ Alsønderup
 Tlf.: 48 28 65 40
 
 E-mail: kulsviergaarden@kulsviergaarden.dk 
+
+Telefontid mandag og torsdag
+
+Kl. 8.30 - 15.00 begge dage
