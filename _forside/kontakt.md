@@ -1,7 +1,7 @@
 ---
 title: Kontakt
 content-image: /images/uploads/kort.jpg
-cmsUserSlug: Kontakt
+cmsUserSlug: kontakt
 date: 2016-04-25T00:00:00.000Z
 permalink: /kontakt
 layout: default
@@ -16,7 +16,7 @@ Alsønderup
 3400 Hillerød  
 Tlf.: 48 28 65 40
 
-E-mail: kulsviergaarden@kulsviergaarden.dk 
+kulsviergaarden@kulsviergaarden.dk 
 
 Telefontid mandag og torsdag
 
