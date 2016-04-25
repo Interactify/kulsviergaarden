@@ -3,7 +3,7 @@ title: Kontakt os
 content-image: /images/uploads/kort.jpg
 cmsUserSlug: kontakt-os
 date: 2016-04-25T00:00:00.000Z
-permalink: /kontakt
+permalink: /kontakt/
 layout: default
 menu-name: ""
 ---
