@@ -3,7 +3,7 @@ content_image: /images/uploads/32c1056e87-ur.jpg
 title: Kulsvierscenen præsenterer
 categories: Nyheder
 cmsUserSlug: ""
-date: null
+date: 2016-05-20 
 layout: default
 ---
 
