@@ -14,9 +14,8 @@ layout: default
 
 
 
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:18.0pt;line-height:107%'>På Kulsviergården <br>
-Pibe Møllevej 7, 3400 Hillerød <o:p></o:p></span></p>
+På **Kulsviergården**
+**Pibe Møllevej 7, 3400 Hillerød** 
 
 <p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
 normal'><span style='font-size:20.0pt;line-height:107%'>Torsdag d. 23. juni
