@@ -27,16 +27,16 @@ layout: default
 # **Børn under 12 år 50,-**
 
 
-**Øl, vand og vin kan købes til
+Øl, vand og vin kan købes til
 rimelige priser.
-**
 
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:18.0pt;line-height:107%'>Dørene åbnes kl. 17.30<o:p></o:p></span></p>
+
+Dørene åbnes kl. 17.30
+
 
                 
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:18.0pt;line-height:107%'>For børnene åbnes dørene til rulleskøjte hallen kl. 19.00
+
+For børnene åbnes dørene til rulleskøjte hallen kl. 19.00
 
 
 <p class=MsoNormal align=center style='text-align:center'><span
