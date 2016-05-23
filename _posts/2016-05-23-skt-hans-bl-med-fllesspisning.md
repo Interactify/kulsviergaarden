@@ -47,4 +47,3 @@ Kulsviergårdens bestyrelse & ASGI
 Af hensyn til køkkenet, tilmelding senest mandag d. 20
 juni på mail: <a href="mailto:kulsviergaarden@kulsviergaarden.dk">kulsviergaarden@kulsviergaarden.dk
 
-</html>
