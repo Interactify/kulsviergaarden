@@ -21,10 +21,9 @@ layout: default
 #  **Torsdag d. 23. juni**
 # **2016 kl. 18.00** 
 
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:18.0pt;line-height:107%'>Pris voksne 100,-<o:p></o:p></span></p>
+# **Pris voksne 100,-
 
-<p class=MsoNormal align=center style='text-align:center'><span
+<**p class=MsoNormal align=center style='text-align:center'><span
 style='font-size:18.0pt;line-height:107%'>Børn under 12 år 50,-<o:p></o:p></span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span
