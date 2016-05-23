@@ -33,28 +33,18 @@ rimelige priser.
 
 Dørene åbnes kl. 17.30
 
-
-                
-
+              
 For børnene åbnes dørene til rulleskøjte hallen kl. 19.00
 
 
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:18.0pt;line-height:107%'>Bålet tændes Kl. 20.30 </span><span
-style='mso-spacerun:yes'> </span><o:p></o:p></p>
+Bålet tændes Kl. 20.30 
 
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:18.0pt;line-height:107%'>Vel mødt!<o:p></o:p></span></p>
+Vel mødt!
 
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:18.0pt;line-height:107%'>Kulsviergårdens bestyrelse & ASGI
 
-<span style='font-size:11.0pt;line-height:107%;font-family:"Calibri",sans-serif;
-mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Calibri;mso-fareast-theme-font:
-minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:"Times New Roman";
-mso-bidi-theme-font:minor-bidi;mso-ansi-language:DA;mso-fareast-language:EN-US;
-mso-bidi-language:AR-SA'>Af hensyn til køkkenet, tilmelding senest mandag d. 20
-juni på mail: <a href="mailto:kulsviergaarden@kulsviergaarden.dk">kulsviergaarden@kulsviergaarden.dk</a></span><!--EndFragment-->
-</body>
+Kulsviergårdens bestyrelse & ASGI
+
+Af hensyn til køkkenet, tilmelding senest mandag d. 20
+juni på mail: <a href="mailto:kulsviergaarden@kulsviergaarden.dk">kulsviergaarden@kulsviergaarden.dk
 
 </html>
