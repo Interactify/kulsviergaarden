@@ -19,7 +19,7 @@ layout: default
 #  **Pibe Møllevej 7, 3400 Hillerød** 
 
 #  **Torsdag d. 23. juni**
-#  **2016 kl. 18.00** 
+# **2016 kl. 18.00** 
 
 <p class=MsoNormal align=center style='text-align:center'><span
 style='font-size:18.0pt;line-height:107%'>Pris voksne 100,-<o:p></o:p></span></p>
