@@ -17,13 +17,8 @@ layout: default
 På **Kulsviergården**
 **Pibe Møllevej 7, 3400 Hillerød** 
 
-<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
-normal'><span style='font-size:20.0pt;line-height:107%'>Torsdag d. 23. juni
-2016 kl. 18.00 <o:p></o:p></span></b></p>
-
-
-<p class=MsoNormal align=center style='text-align:center'><span
-style='font-size:18.0pt;line-height:107%'>Steg og pølser med tilbehør<o:p></o:p></span></p>
+**Torsdag d. 23. juni**
+**2016 kl. 18.00** 
 
 <p class=MsoNormal align=center style='text-align:center'><span
 style='font-size:18.0pt;line-height:107%'>Pris voksne 100,-<o:p></o:p></span></p>
