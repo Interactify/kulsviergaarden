@@ -20,7 +20,7 @@ layout: default
 
 # **Torsdag d. 23. juni**
 
-2016 kl. 18.00 
+# **2016 kl. 18.00**
 
 # **Pris voksne 100,-**
 
