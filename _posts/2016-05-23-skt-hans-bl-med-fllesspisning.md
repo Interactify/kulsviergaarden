@@ -3,18 +3,15 @@ content_image: /images/uploads/skt-hans-heks-2.jpg
 title: SKT. HANS BÅL MED FÆLLESSPISNING
 categories: Nyhed
 cmsUserSlug: ""
-date: 2016-05-23 
+date: 2016-05-23T00:00:00.000Z
 layout: default
 ---
 
+# **SKT. HANS BÅL MED FÆLLESSPISNING 
 
 
 
-  
-
-
-
-# **På Kulsviergården**
+# ****På Kulsviergården**
 
 #  **Pibe Møllevej 7, 3400 Hillerød** 
 
