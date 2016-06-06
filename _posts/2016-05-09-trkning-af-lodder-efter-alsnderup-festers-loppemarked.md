@@ -3,7 +3,7 @@ content_image: null
 title: Trækning af lodder efter Alsønderup Festers loppemarked
 categories: Nyheder
 cmsUserSlug: ""
-date: 2016-06-01 
+date: 2016-06-01T00:00:00.000Z
 layout: default
 ---
 
@@ -60,14 +60,7 @@ Nr. 297, 293, 191, 175, 157 og 71
 
 Banko kr. 50,00
 
-Nr. 144, 27, 183, 7, 0 og 204.
+Nr. 144, 27, 183, 7, 90 og 204.
 
 
-
-
-       
-   
-
-         Vi fik desværre ikke solgt alle vores lodder til loppemarkedet. Vi arbejder ihærdigt på at få solgt de resterende hurtigst muligt.
-
-Vinderne vil blive offentliggjort her på hjemmesiden, når alle lodder er blevet solgt. Ved henvendelse bedes kontakt rettet til arrangøren af lotteriet "Trekløveren bankospil" på enten tlf. 20 46 11 59 eller hautopulla@gmail.com.
+Aftale om afhentning af gevinsterne kan aftales med arrangøren af lotteriet "Trekløveren bankospil" på enten tlf. 20 46 11 59 eller hautopulla@gmail.com.
