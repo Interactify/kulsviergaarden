@@ -7,7 +7,7 @@ date: 2016-05-23T00:00:00.000Z
 layout: default
 ---
 
-# **SKT. HANS BÅL MED FÆLLESSPISNING **
+# SKT. HANS BÅL MED FÆLLESSPISNING 
 
 
 
