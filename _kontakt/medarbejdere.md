@@ -5,7 +5,7 @@ cmsUserSlug: ""
 permalink: null
 layout: null
 menu-name: null
-date: null
+date: 2016-06-14 
 ---
 
 test
