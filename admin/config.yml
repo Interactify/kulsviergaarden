@@ -22,11 +22,12 @@ collections: # A list of collections the CMS should be able to edit
     fields: # The fields each document in this collection have
       - {label: "Overskrift", name: "title", widget: "string", tagname: "h1"}
       - {label: "Indhold", name: "body", widget: "markdown"}
-      - {label: "Billede", name: "content-image", widget: "image"}
+      - {label: "Billede", name: "content-image", widget: "image", optional: true}
     meta: # Meta data fields. Just like fields, but without any preview element
       - {label: "Permalink", name: "permalink", widget: "string"}
       - {label: "Layout (default)", name: "layout", widget: "string"}
       - {label: "Navn i menu", name: "menu-name", widget: "string"}
+      - {label: "Dato", name: "date", widget: "date", format: "YYYY-MM-DD"}
 
   - name: "Om-kulsviergaarden" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Om Kulsviergården" # Used in the UI, ie.: "New Post"
@@ -37,11 +38,12 @@ collections: # A list of collections the CMS should be able to edit
     fields: # The fields each document in this collection have
       - {label: "Overskrift", name: "title", widget: "string", tagname: "h1"}
       - {label: "Indhold", name: "body", widget: "markdown"}
-      - {label: "Billede", name: "content-image", widget: "image"}
+      - {label: "Billede", name: "content-image", widget: "image", optional: true}
     meta: # Meta data fields. Just like fields, but without any preview element
       - {label: "Permalink", name: "permalink", widget: "string"}
       - {label: "Layout (default)", name: "layout", widget: "string"}
       - {label: "Navn i menu", name: "menu-name", widget: "string"}
+      - {label: "Dato", name: "date", widget: "date", format: "YYYY-MM-DD"}
 
   - name: "Festlokaler" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Festlokaler" # Used in the UI, ie.: "New Post"
@@ -52,11 +54,12 @@ collections: # A list of collections the CMS should be able to edit
     fields: # The fields each document in this collection have
       - {label: "Overskrift", name: "title", widget: "string", tagname: "h1"}
       - {label: "Indhold", name: "body", widget: "markdown"}
-      - {label: "Billede", name: "content-image", widget: "image"}
+      - {label: "Billede", name: "content-image", widget: "image", optional: true}
     meta: # Meta data fields. Just like fields, but without any preview element
       - {label: "Permalink", name: "permalink", widget: "string"}
       - {label: "Layout (default)", name: "layout", widget: "string"}
       - {label: "Navn i menu", name: "menu-name", widget: "string"}
+      - {label: "Dato", name: "date", widget: "date", format: "YYYY-MM-DD"}
 
   - name: "Moedeogkonferencelokaler" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Møde- & konferencelokaler" # Used in the UI, ie.: "New Post"
@@ -67,11 +70,12 @@ collections: # A list of collections the CMS should be able to edit
     fields: # The fields each document in this collection have
       - {label: "Overskrift", name: "title", widget: "string", tagname: "h1"}
       - {label: "Indhold", name: "body", widget: "markdown"}
-      - {label: "Billede", name: "content-image", widget: "image"}
+      - {label: "Billede", name: "content-image", widget: "image", optional: true}
     meta: # Meta data fields. Just like fields, but without any preview element
       - {label: "Permalink", name: "permalink", widget: "string"}
       - {label: "Layout (default)", name: "layout", widget: "string"}
       - {label: "Navn i menu", name: "menu-name", widget: "string"}
+      - {label: "Dato", name: "date", widget: "date", format: "YYYY-MM-DD"}
 
   - name: "Banko-paa-kulsviergaarden" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Banko på Kulsviergården" # Used in the UI, ie.: "New Post"
@@ -82,11 +86,12 @@ collections: # A list of collections the CMS should be able to edit
     fields: # The fields each document in this collection have
       - {label: "Overskrift", name: "title", widget: "string", tagname: "h1"}
       - {label: "Indhold", name: "body", widget: "markdown"}
-      - {label: "Billede", name: "content-image", widget: "image"}
+      - {label: "Billede", name: "content-image", widget: "image", optional: true}
     meta: # Meta data fields. Just like fields, but without any preview element
       - {label: "Permalink", name: "permalink", widget: "string"}
       - {label: "Layout (default)", name: "layout", widget: "string"}
       - {label: "Navn i menu", name: "menu-name", widget: "string"}
+      - {label: "Dato", name: "date", widget: "date", format: "YYYY-MM-DD"}
 
   - name: "KulsvierscenenTeater" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Kulsvierscenen" # Used in the UI, ie.: "New Post"
@@ -97,11 +102,12 @@ collections: # A list of collections the CMS should be able to edit
     fields: # The fields each document in this collection have
       - {label: "Overskrift", name: "title", widget: "string", tagname: "h1"}
       - {label: "Indhold", name: "body", widget: "markdown"}
-      - {label: "Billede", name: "content-image", widget: "image"}
+      - {label: "Billede", name: "content-image", widget: "image", optional: true}
     meta: # Meta data fields. Just like fields, but without any preview element
       - {label: "Permalink", name: "permalink", widget: "string"}
       - {label: "Layout (default)", name: "layout", widget: "string"}
       - {label: "Navn i menu", name: "menu-name", widget: "string"}
+      - {label: "Dato", name: "date", widget: "date", format: "YYYY-MM-DD"}
 
   - name: "Idrætsforeningen-ASGI" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Idrætsforeningen ASGI" # Used in the UI, ie.: "New Post"
@@ -112,11 +118,12 @@ collections: # A list of collections the CMS should be able to edit
     fields: # The fields each document in this collection have
       - {label: "Overskrift", name: "title", widget: "string", tagname: "h1"}
       - {label: "Indhold", name: "body", widget: "markdown"}
-      - {label: "Billede", name: "content-image", widget: "image"}
+      - {label: "Billede", name: "content-image", widget: "image", optional: true}
     meta: # Meta data fields. Just like fields, but without any preview element
       - {label: "Permalink", name: "permalink", widget: "string"}
       - {label: "Layout (default)", name: "layout", widget: "string"}
       - {label: "Navn i menu", name: "menu-name", widget: "string"}
+      - {label: "Dato", name: "date", widget: "date", format: "YYYY-MM-DD"}
 
   - name: "Aktiviteter" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Aktiviteter på gården" # Used in the UI, ie.: "New Post"
@@ -127,11 +134,12 @@ collections: # A list of collections the CMS should be able to edit
     fields: # The fields each document in this collection have
       - {label: "Overskrift", name: "title", widget: "string", tagname: "h1"}
       - {label: "Indhold", name: "body", widget: "markdown"}
-      - {label: "Billede", name: "content-image", widget: "image"}
+      - {label: "Billede", name: "content-image", widget: "image", optional: true}
     meta: # Meta data fields. Just like fields, but without any preview element
       - {label: "Permalink", name: "permalink", widget: "string"}
       - {label: "Layout (default)", name: "layout", widget: "string"}
       - {label: "Navn i menu", name: "menu-name", widget: "string"}
+      - {label: "Dato", name: "date", widget: "date", format: "YYYY-MM-DD"}
 
   - name: "Loppemarked" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Loppemarked" # Used in the UI, ie.: "New Post"
@@ -142,11 +150,12 @@ collections: # A list of collections the CMS should be able to edit
     fields: # The fields each document in this collection have
       - {label: "Overskrift", name: "title", widget: "string", tagname: "h1"}
       - {label: "Indhold", name: "body", widget: "markdown"}
-      - {label: "Billede", name: "content-image", widget: "image"}
+      - {label: "Billede", name: "content-image", widget: "image", optional: true}
     meta: # Meta data fields. Just like fields, but without any preview element
       - {label: "Permalink", name: "permalink", widget: "string"}
       - {label: "Layout (default)", name: "layout", widget: "string"}
       - {label: "Navn i menu", name: "menu-name", widget: "string"}
+      - {label: "Dato", name: "date", widget: "date", format: "YYYY-MM-DD"}
 
   - name: "Mad" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Mad på Kulsviergaarden" # Used in the UI, ie.: "New Post"
@@ -157,11 +166,12 @@ collections: # A list of collections the CMS should be able to edit
     fields: # The fields each document in this collection have
       - {label: "Overskrift", name: "title", widget: "string", tagname: "h1"}
       - {label: "Indhold", name: "body", widget: "markdown"}
-      - {label: "Billede", name: "content-image", widget: "image"}
+      - {label: "Billede", name: "content-image", widget: "image", optional: true}
     meta: # Meta data fields. Just like fields, but without any preview element
       - {label: "Permalink", name: "permalink", widget: "string"}
       - {label: "Layout (default)", name: "layout", widget: "string"}
       - {label: "Navn i menu", name: "menu-name", widget: "string"}
+      - {label: "Dato", name: "date", widget: "date", format: "YYYY-MM-DD"}
 
   - name: "Samarbejdspartnere" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Samarbejdspartnere" # Used in the UI, ie.: "New Post"
@@ -172,11 +182,12 @@ collections: # A list of collections the CMS should be able to edit
     fields: # The fields each document in this collection have
       - {label: "Overskrift", name: "title", widget: "string", tagname: "h1"}
       - {label: "Indhold", name: "body", widget: "markdown"}
-      - {label: "Billede", name: "content-image", widget: "image"}
+      - {label: "Billede", name: "content-image", widget: "image", optional: true}
     meta: # Meta data fields. Just like fields, but without any preview element
       - {label: "Permalink", name: "permalink", widget: "string"}
       - {label: "Layout (default)", name: "layout", widget: "string"}
       - {label: "Navn i menu", name: "menu-name", widget: "string"}
+      - {label: "Dato", name: "date", widget: "date", format: "YYYY-MM-DD"}
 
   - name: "Nyheder" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Nyheder" # Used in the UI, ie.: "New Post"
