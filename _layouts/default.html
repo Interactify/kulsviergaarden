@@ -9,23 +9,20 @@
     <div class="banner"></div>
 
     <div class="cms-content">
-        <div class="container">
-            <div class="col-md-6"><h1 class="post-title">{{ page.title }}</h1></div>
-            <div class="col-md-6">
+        <div class="container flex">
+            <div class="col-md-4">
+                {% include left-menu.html %}
+            </div>
+            <div class="col-md-8">
+                <h1 class="post-title">{{ page.title }}</h1>
                 {{ content }}
+                {% if page.content-image %}
+                    <br/>
+                    <img src="{{ page.content-image | prepend: site.baseurl }}" alt="{{ page.title }}">
+                {% endif %}
             </div>
         </div>
-        {% if page.content-image %}
-        <div class="container">
-            <div class="col-md-12">
-                <img src="{{ page.content-image | prepend: site.baseurl }}" alt="{{ page.title }}">
-            </div>
-        </div>
-        {% endif %}
     </div>
-
-
-    {% include footer.html %}
 
   </body>
 

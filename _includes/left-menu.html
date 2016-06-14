@@ -1,0 +1,37 @@
+<div id="left-menu">
+    <div class="left-menu-logo">KULSVIERGAARDEN</div>
+
+    <div class="menu-links">
+        <div class="headline"><a href="{{ '/facilliteter' | prepend: site.baseurl }}">FACILITETER</a></div>
+        {% assign sorted_pages = (site.faciliteter | sort: 'orderby') %}
+        {% for my_page in sorted_pages %}
+            {% if my_page.menu-name %}
+                <div class="link"><a href="{{ my_page.url | prepend: site.baseurl }}" class="page-link">- {{ my_page.menu-name }}</a></div>
+            {% endif %}
+        {% endfor %}
+        <div class="headline"><a href="{{ '/arrangementer' | prepend: site.baseurl }}">ARRANGEMENTER</a></div>
+        {% assign sorted_pages = (site.arrangementer | sort: 'orderby') %}
+        {% for my_page in sorted_pages %}
+            {% if my_page.menu-name %}
+                <div class="link"><a href="{{ my_page.url | prepend: site.baseurl }}" class="page-link">- {{ my_page.menu-name }}</a></div>
+            {% endif %}
+        {% endfor %}
+        <div class="headline"><a href="{{ '/nyheder' | prepend: site.baseurl }}">NYHEDER</a></div><br>
+        {% assign sorted_pages = (site.forside | sort: 'orderby') %}
+        {% for page in sorted_pages %}
+            {% if page.menu-name %}
+
+                <div class="headline"><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.menu-name }}</a></div>
+
+            {% endif %}
+        {% endfor %}
+        <br>
+        <div class="headline">OM OS</div>
+        {% assign sorted_pages = (site.om-os | sort: 'orderby') %}
+        {% for my_page in sorted_pages %}
+            {% if my_page.menu-name %}
+                <div class="link"><a href="{{ my_page.url | prepend: site.baseurl }}" class="page-link">- {{ my_page.menu-name }}</a></div>
+            {% endif %}
+        {% endfor %}
+    </div>
+</div>

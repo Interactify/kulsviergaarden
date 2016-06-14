@@ -1,0 +1,19 @@
+#left-menu {
+    background-color: #b3a89e;
+    height: 100%;
+    padding: 70px 50px 50px 50px;
+    color: #ffffff;
+    .left-menu-logo {
+        font-size: 20px;
+    }
+    .menu-links {
+        margin-top: 40px;
+        text-transform: uppercase;
+        .headline {
+            a {
+                color: #ffffff;
+            }
+            margin-bottom: 20px;
+        }
+    }
+}
