@@ -37,3 +37,7 @@ input[type="checkbox"] {
 body.ember-application .cms-logo {
     width: 200px;
 }
+
+body.ember-application .cms-aside, body.ember-application .cms-control {
+    font-size: 12px;
+}
