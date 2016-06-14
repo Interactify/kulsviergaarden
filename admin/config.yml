@@ -47,7 +47,7 @@ collections: # A list of collections the CMS should be able to edit
     label: "Festlokaler" # Used in the UI, ie.: "New Post"
     folder: "_festlokaler" # The path to the folder where the documents are stored
     sort: "title:desc" # Default is title:asc
-    create: false # Allow users to create new documents in this collection
+    create: true # Allow users to create new documents in this collection
     slug: "{{slug}}"
     fields: # The fields each document in this collection have
       - {label: "Overskrift", name: "title", widget: "string", tagname: "h1"}
@@ -62,7 +62,7 @@ collections: # A list of collections the CMS should be able to edit
     label: "Møde- & konferencelokaler" # Used in the UI, ie.: "New Post"
     folder: "_moedeogkonf" # The path to the folder where the documents are stored
     sort: "title:desc" # Default is title:asc
-    create: false # Allow users to create new documents in this collection
+    create: true # Allow users to create new documents in this collection
     slug: "{{slug}}"
     fields: # The fields each document in this collection have
       - {label: "Overskrift", name: "title", widget: "string", tagname: "h1"}
@@ -77,7 +77,7 @@ collections: # A list of collections the CMS should be able to edit
     label: "Banko på Kulsviergården" # Used in the UI, ie.: "New Post"
     folder: "_bankopaakulsviergaarden" # The path to the folder where the documents are stored
     sort: "title:desc" # Default is title:asc
-    create: false # Allow users to create new documents in this collection
+    create: true # Allow users to create new documents in this collection
     slug: "{{slug}}"
     fields: # The fields each document in this collection have
       - {label: "Overskrift", name: "title", widget: "string", tagname: "h1"}
@@ -89,10 +89,10 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Navn i menu", name: "menu-name", widget: "string"}
 
   - name: "KulsvierscenenTeater" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Kulsvierscenen – Teater" # Used in the UI, ie.: "New Post"
+    label: "Kulsvierscenen" # Used in the UI, ie.: "New Post"
     folder: "_kulsvierscenen" # The path to the folder where the documents are stored
     sort: "title:desc" # Default is title:asc
-    create: false # Allow users to create new documents in this collection
+    create: true # Allow users to create new documents in this collection
     slug: "{{slug}}"
     fields: # The fields each document in this collection have
       - {label: "Overskrift", name: "title", widget: "string", tagname: "h1"}
@@ -107,7 +107,7 @@ collections: # A list of collections the CMS should be able to edit
     label: "Idrætsforeningen ASGI" # Used in the UI, ie.: "New Post"
     folder: "_asgi" # The path to the folder where the documents are stored
     sort: "title:desc" # Default is title:asc
-    create: false # Allow users to create new documents in this collection
+    create: true # Allow users to create new documents in this collection
     slug: "{{slug}}"
     fields: # The fields each document in this collection have
       - {label: "Overskrift", name: "title", widget: "string", tagname: "h1"}
@@ -122,7 +122,7 @@ collections: # A list of collections the CMS should be able to edit
     label: "Aktiviteter på gården" # Used in the UI, ie.: "New Post"
     folder: "_aktiviteter" # The path to the folder where the documents are stored
     sort: "title:desc" # Default is title:asc
-    create: false # Allow users to create new documents in this collection
+    create: true # Allow users to create new documents in this collection
     slug: "{{slug}}"
     fields: # The fields each document in this collection have
       - {label: "Overskrift", name: "title", widget: "string", tagname: "h1"}
@@ -137,7 +137,7 @@ collections: # A list of collections the CMS should be able to edit
     label: "Loppemarked Kr. Himmelfartsdag" # Used in the UI, ie.: "New Post"
     folder: "_loppemarked" # The path to the folder where the documents are stored
     sort: "title:desc" # Default is title:asc
-    create: false # Allow users to create new documents in this collection
+    create: true # Allow users to create new documents in this collection
     slug: "{{slug}}"
     fields: # The fields each document in this collection have
       - {label: "Overskrift", name: "title", widget: "string", tagname: "h1"}
@@ -152,7 +152,7 @@ collections: # A list of collections the CMS should be able to edit
     label: "Mad på Kulsviergaarden" # Used in the UI, ie.: "New Post"
     folder: "_mad" # The path to the folder where the documents are stored
     sort: "title:desc" # Default is title:asc
-    create: false # Allow users to create new documents in this collection
+    create: true # Allow users to create new documents in this collection
     slug: "{{slug}}"
     fields: # The fields each document in this collection have
       - {label: "Overskrift", name: "title", widget: "string", tagname: "h1"}
@@ -167,7 +167,7 @@ collections: # A list of collections the CMS should be able to edit
     label: "Samarbejdspartnere" # Used in the UI, ie.: "New Post"
     folder: "_samarbejdspartnere" # The path to the folder where the documents are stored
     sort: "title:desc" # Default is title:asc
-    create: false # Allow users to create new documents in this collection
+    create: true # Allow users to create new documents in this collection
     slug: "{{slug}}"
     fields: # The fields each document in this collection have
       - {label: "Overskrift", name: "title", widget: "string", tagname: "h1"}
