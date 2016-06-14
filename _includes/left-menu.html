@@ -2,36 +2,94 @@
     <div class="left-menu-logo">KULSVIERGAARDEN</div>
 
     <div class="menu-links">
-        <div class="headline"><a href="{{ '/facilliteter' | prepend: site.baseurl }}">FACILITETER</a></div>
-        {% assign sorted_pages = (site.faciliteter | sort: 'orderby') %}
+        <div class="headline">KONTAKT</div>
+        {% assign sorted_pages = (site.kontakt | sort: 'orderby') %}
         {% for my_page in sorted_pages %}
             {% if my_page.menu-name %}
                 <div class="link"><a href="{{ my_page.url | prepend: site.baseurl }}" class="page-link">- {{ my_page.menu-name }}</a></div>
             {% endif %}
         {% endfor %}
-        <div class="headline"><a href="{{ '/arrangementer' | prepend: site.baseurl }}">ARRANGEMENTER</a></div>
-        {% assign sorted_pages = (site.arrangementer | sort: 'orderby') %}
-        {% for my_page in sorted_pages %}
-            {% if my_page.menu-name %}
-                <div class="link"><a href="{{ my_page.url | prepend: site.baseurl }}" class="page-link">- {{ my_page.menu-name }}</a></div>
-            {% endif %}
-        {% endfor %}
-        <div class="headline"><a href="{{ '/nyheder' | prepend: site.baseurl }}">NYHEDER</a></div><br>
-        {% assign sorted_pages = (site.forside | sort: 'orderby') %}
-        {% for page in sorted_pages %}
-            {% if page.menu-name %}
 
-                <div class="headline"><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.menu-name }}</a></div>
-
-            {% endif %}
-        {% endfor %}
-        <br>
-        <div class="headline">OM OS</div>
-        {% assign sorted_pages = (site.om-os | sort: 'orderby') %}
+        <div class="headline">OM KULSVIERGÅRDEN</div>
+        {% assign sorted_pages = (site.om-kulsviergaarden | sort: 'orderby') %}
         {% for my_page in sorted_pages %}
             {% if my_page.menu-name %}
                 <div class="link"><a href="{{ my_page.url | prepend: site.baseurl }}" class="page-link">- {{ my_page.menu-name }}</a></div>
             {% endif %}
         {% endfor %}
+
+        <div class="headline">FESTLOKALER</div>
+        {% assign sorted_pages = (site.festlokaler | sort: 'orderby') %}
+        {% for my_page in sorted_pages %}
+            {% if my_page.menu-name %}
+                <div class="link"><a href="{{ my_page.url | prepend: site.baseurl }}" class="page-link">- {{ my_page.menu-name }}</a></div>
+            {% endif %}
+        {% endfor %}
+
+        <div class="headline">Møde- & konferencelokaler</div>
+        {% assign sorted_pages = (site.moedeogkonf | sort: 'orderby') %}
+        {% for my_page in sorted_pages %}
+            {% if my_page.menu-name %}
+                <div class="link"><a href="{{ my_page.url | prepend: site.baseurl }}" class="page-link">- {{ my_page.menu-name }}</a></div>
+            {% endif %}
+        {% endfor %}
+
+        <div class="headline">Banko på Kulsviergården</div>
+        {% assign sorted_pages = (site.bankopaakulsviergaarden | sort: 'orderby') %}
+        {% for my_page in sorted_pages %}
+            {% if my_page.menu-name %}
+                <div class="link"><a href="{{ my_page.url | prepend: site.baseurl }}" class="page-link">- {{ my_page.menu-name }}</a></div>
+            {% endif %}
+        {% endfor %}
+
+        <div class="headline">Kulsvierscenen - Teater</div>
+        {% assign sorted_pages = (site.kulsvierscenen | sort: 'orderby') %}
+        {% for my_page in sorted_pages %}
+            {% if my_page.menu-name %}
+                <div class="link"><a href="{{ my_page.url | prepend: site.baseurl }}" class="page-link">- {{ my_page.menu-name }}</a></div>
+            {% endif %}
+        {% endfor %}
+
+        <div class="headline">Idrætsforeningen ASGI</div>
+        {% assign sorted_pages = (site.asgi | sort: 'orderby') %}
+        {% for my_page in sorted_pages %}
+            {% if my_page.menu-name %}
+                <div class="link"><a href="{{ my_page.url | prepend: site.baseurl }}" class="page-link">- {{ my_page.menu-name }}</a></div>
+            {% endif %}
+        {% endfor %}
+
+        <div class="headline">Aktiviteter på gården</div>
+        {% assign sorted_pages = (site.aktiviteter | sort: 'orderby') %}
+        {% for my_page in sorted_pages %}
+            {% if my_page.menu-name %}
+                <div class="link"><a href="{{ my_page.url | prepend: site.baseurl }}" class="page-link">- {{ my_page.menu-name }}</a></div>
+            {% endif %}
+        {% endfor %}
+
+        <div class="headline">Loppemarked Kr. Himmelfartsdag</div>
+        {% assign sorted_pages = (site.loppemarked | sort: 'orderby') %}
+        {% for my_page in sorted_pages %}
+            {% if my_page.menu-name %}
+                <div class="link"><a href="{{ my_page.url | prepend: site.baseurl }}" class="page-link">- {{ my_page.menu-name }}</a></div>
+            {% endif %}
+        {% endfor %}
+
+        <div class="headline">Mad på Kulsviergaarden</div>
+        {% assign sorted_pages = (site.mad | sort: 'orderby') %}
+        {% for my_page in sorted_pages %}
+            {% if my_page.menu-name %}
+                <div class="link"><a href="{{ my_page.url | prepend: site.baseurl }}" class="page-link">- {{ my_page.menu-name }}</a></div>
+            {% endif %}
+        {% endfor %}
+
+        <div class="headline">Samarbejdspartnere</div>
+        {% assign sorted_pages = (site.samarbejdspartnere | sort: 'orderby') %}
+        {% for my_page in sorted_pages %}
+            {% if my_page.menu-name %}
+                <div class="link"><a href="{{ my_page.url | prepend: site.baseurl }}" class="page-link">- {{ my_page.menu-name }}</a></div>
+            {% endif %}
+        {% endfor %}
+
+        
     </div>
 </div>

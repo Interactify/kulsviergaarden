@@ -12,15 +12,40 @@ markdown: kramdown
 
 
 collections:
-    faciliteter:
+    kontakt:
         output: true
-        permalink: /faciliteter/:path/
-    arrangementer:
+        permalink: /kontakt/:path/
+    om-kulsviergaarden:
         output: true
-        permalink: /arrangementer/:path/
-    om-os:
+        permalink: /om-kulsviergaarden/:path/
+    festlokaler:
         output: true
-        permalink: /om-os/:path/
+        permalink: /festlokaler/:path/
+    moedeogkonf:
+        output: true
+        permalink: /moede/:path/
+    bankopaakulsviergaarden:
+        output: true
+        permalink: /banko/:path/
+    kulsvierscenen:
+        output: true
+        permalink: /kulsvierscenen/:path/
+    asgi:
+        output: true
+        permalink: /asgi/:path/
+    aktiviteter:
+        output: true
+        permalink: /aktiviteter/:path/
+    loppemarked:
+        output: true
+        permalink: /loppemarked/:path/
+    mad:
+        output: true
+        permalink: /mad/:path/
+    samarbejdspartnere:
+        output: true
+        permalink: /samarbejdspartnere/:path/
     forside:
         output: true
         permalink: /:path/
+
