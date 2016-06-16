@@ -1,27 +1,22 @@
 ---
 content_image: /images/uploads/skt-hans-heks-2.jpg
-title: SKT. HANS BÅL MED FÆLLESSPISNING
+title: Invitation til Skt. Hans.
 categories: Nyhed
 cmsUserSlug: ""
 date: 2016-05-23T00:00:00.000Z
 layout: default
 ---
 
-# **SKT. HANS BÅL MED FÆLLESSPISNING** 
+**SANKT HANS BÅL MED FÆLLESSPISNING**
 
+På Kulsviergården
+Pibe Møllevej 7, 3400 Hillerød
+Torsdag d. 23. juni
+2016 kl. 18.00
 
+Pris voksne 100 kr.
 
-# **På Kulsviergården**
-
-#  **Pibe Møllevej 7, 3400 Hillerød** 
-
-# **Torsdag d. 23. juni**
-
-# **2016 kl. 18.00**
-
-# **Pris voksne 100,-**
-
-# **Børn under 12 år 50,-**
+Børn under 12 år 50 kr.
 
 
 Øl, vand og vin kan købes til
