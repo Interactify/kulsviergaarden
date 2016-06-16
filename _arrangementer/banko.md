@@ -8,7 +8,7 @@ layout: default
 menu-name: Banko
 ---
 
-Der spilles nu banko både mandage og fredage her på 
+Der spilles banko både mandage og fredage her på 
 Kulsviergården.
  
 Mandagsbanko afvikles af støtteforeningen for ASGI og Kulsviergården og drives udelukkende af frivillige hjælpere.
