@@ -1,10 +1,13 @@
 ---
-layout: default
-title:  "Lokaler og priser"
+title: Lokaler og priser
+content-image: null
+cmsUserSlug: lokaler-og-priser
+date: now
 permalink: /lokaler-og-priser/
-orderby: 1
+layout: default
 menu-name: "Lokaler & priser"
 ---
+
 Teatersalen inkl. scene.
 Salen er et stort lyst lokale på ca. 250 m2 med plads til ca. 250 personer.
 
@@ -21,7 +24,7 @@ Salen kan med fordel benyttes til selskaber mellem 30-70 personer, således at d
 
 DKK 5.110,00
 
-Ved mindre selskabsarrangementer (max 40 personer) er prisen for Kulsviersalen dog alene kr. 3.000,00.
+Ved mindre selskabsarrangementer (max 40 personer) er prisen for Kulsviersalen dog alene kr. 3.000,00. (Dette gælder dog ikke ungdomsfester)
 
 Depositum: DKK 3.000,00
 
