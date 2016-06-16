@@ -8,7 +8,7 @@ layout: default
 menu-name: Idrætsforening
 ---
 
-Alsønderup har Idrætsforening har en lang række afdelinger, som har tilbud til mennesker i alle aldre og med mange forskellige interesser. På Kulsviergården tilbyder Alsønderup Idrætsforening 
+Idrætsforeningen i Alsønderup har en lang række afdelinger, som har tilbud til mennesker i alle aldre og med mange forskellige interesser. På Kulsviergården tilbyder Alsønderup Idrætsforening 
 
 Badminton, Fodbold, Gymnastik, Rulleskøjteløb, Teater, Floorball og Skumtennis.
 
