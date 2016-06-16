@@ -21,7 +21,7 @@ Sportshallen: 500 personer
 
 **Mad og drikke**
  
-Kulsviergården har indgået et tæt og godt samarbejde med "Et spørgsmål om smag" v/ Stefan Bjerregaard Pedersen, som kan tilbyde at stå for hele jeres arrangement, hvad enten det er et privat eller firmaarrangement.
+Kulsviergården har indgået et tæt og godt samarbejde med "Et spørgsmål om smag" v/ Steffan Bjerregaard Pedersen, som kan tilbyde at stå for hele jeres arrangement, hvad enten det er et privat eller firmaarrangement.
 
 **Køkken**
 
@@ -38,7 +38,7 @@ Vores lokaler er handicapvenlige uden dørtrin, ligesom vi også både har handi
 
 **Parkeringsmuligheder**
 
-Kulsviergården råder over 200 parkeringspladser link. handicapparkering. Afstand: 10 meter.
+Kulsviergården råder over 200 parkeringspladser inkl. handicapparkering. Afstand: 10 meter.
 
 **Offentlig transport**
 Bus 380R - ca. 200 meter.
