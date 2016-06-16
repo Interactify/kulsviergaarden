@@ -1,9 +1,9 @@
 ---
 content_image: /images/uploads/skt-hans-heks-2.jpg
-title: Invitation til Skt. Hans.
+title: Invitation til Skt. Hans
 categories: Nyhed
 cmsUserSlug: ""
-date: 2016-05-23T00:00:00.000Z
+date: 2016-06-16 
 layout: default
 ---
 
