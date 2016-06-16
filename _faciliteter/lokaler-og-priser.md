@@ -2,7 +2,7 @@
 title: Lokaler og priser
 content-image: null
 cmsUserSlug: lokaler-og-priser
-date: now
+date: 2016-06-10 
 permalink: /lokaler-og-priser/
 layout: default
 menu-name: "Lokaler & priser"
