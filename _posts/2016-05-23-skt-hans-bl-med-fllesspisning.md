@@ -11,6 +11,7 @@ layout: default
 
 På Kulsviergården
 Pibe Møllevej 7, 3400 Hillerød
+
 Torsdag d. 23. juni
 2016 kl. 18.00
 
