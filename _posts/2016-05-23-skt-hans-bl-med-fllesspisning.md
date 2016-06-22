@@ -3,11 +3,9 @@ content_image: /images/uploads/skt-hans-heks-2.jpg
 title: Invitation til Skt. Hans
 categories: Nyhed
 cmsUserSlug: ""
-date: 2016-06-16 
+date: 2016-06-16T00:00:00.000Z
 layout: default
 ---
-
-**SANKT HANS BÅL MED FÆLLESSPISNING**
 
 På Kulsviergården
 Pibe Møllevej 7, 3400 Hillerød
