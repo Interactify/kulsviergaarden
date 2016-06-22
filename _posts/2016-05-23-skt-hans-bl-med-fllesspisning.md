@@ -7,34 +7,28 @@ date: 2016-06-16T00:00:00.000Z
 layout: default
 ---
 
-På Kulsviergården
-Pibe Møllevej 7, 3400 Hillerød
+Torsdag den 23. juni afholder vi Sankt Hans bål på Kulsviergården
 
-Torsdag d. 23. juni
-2016 kl. 18.00
+Aftenen starter med fællesspisning kl. 18.00
 
-Pris voksne 100 kr.
+Pris for voksne, er: 100 kr.
 
-Børn under 12 år 50 kr.
+Pris for børn under 12 år, er: 50 kr.
 
 
-Øl, vand og vin kan købes til
-rimelige priser.
-
+Øl, vand og vin kan købes til rimelige priser.
 
 Dørene åbnes kl. 17.30
-
               
 For børnene åbnes dørene til rulleskøjte hallen kl. 19.00
 
-
 Bålet tændes Kl. 20.30 
 
-Vel mødt!
-
+Vi glæder os til at se mange af jer.
 
 Kulsviergårdens bestyrelse & ASGI
 
+SU:
 Af hensyn til køkkenet, tilmelding senest mandag d. 20
-juni på mail: <a href="mailto:kulsviergaarden@kulsviergaarden.dk">kulsviergaarden@kulsviergaarden.dk
+juni på mail: kulsviergaarden@kulsviergaarden.dk
 
