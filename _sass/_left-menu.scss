@@ -4,7 +4,7 @@
     padding: 70px 50px 50px 50px;
     color: #ffffff;
     .left-menu-logo {
-        font-size: 20px;
+        font-size: 27px;
     }
     .menu-links {
         margin-top: 40px;
@@ -12,9 +12,59 @@
         .headline {
             a {
                 color: #ffffff;
+                font-weight: 700;
             }
-            margin-bottom: 20px;
-            font-size: 12px;
+            cursor: pointer;
+            margin-top: 20px;
+            margin-bottom: 10px;
+            font-size: 18px;
+        }
+        .link {
+            a {
+                font-size: 15px;
+                color: #ffffff;
+                font-weight: 100;
+                text-transform: capitalize;
+            }
+        }
+    }
+    #kontakt {
+        margin-top: 150px;
+        padding-bottom: 150px;
+        font-size: 12px;
+        margin-left: -10px;
+
+        .adresse {
+            display: block;
+            float: left;
+            width: 40%;
+            overflow: hidden;
+            padding-left: 15px;
+        }
+        .telefontid {
+            padding-top: 37px;
+            display: block;
+            float: left;
+            font-style: italic;
+            width: 60%;
+        }
+    }
+    align-right {
+        text-align: right;
+    }
+
+    #nyheder {
+        margin-top: 100px;
+        border: 1px solid #ffffff;
+        padding: 40px;
+        font-size: 12px;
+    }
+    .mlinks {
+        max-height: 0px;
+        overflow: hidden;
+        transition: max-height .5s ease-in-out;
+        &.show {
+            max-height: 300px;
         }
     }
 }

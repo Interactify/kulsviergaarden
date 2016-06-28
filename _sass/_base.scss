@@ -228,7 +228,7 @@ div.cms-content {
 }
 
 h1.post-title {
-    max-width: 200px;
+    // max-width: 200px;
 }
 
 .align-right {
@@ -281,4 +281,12 @@ hr {
 
 .flex {
     display: flex;
+}
+
+.main-container-content {
+    padding: 80px 0px 40px 100px;
+}
+.no-lr-padding {
+    padding-right: 0px;
+    padding-left: 0px;
 }

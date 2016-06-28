@@ -9,21 +9,35 @@
     <div class="banner"></div>
 
     <div class="cms-content">
-        <div class="container flex">
-            <div class="col-md-4">
+        <div class="container-fluid no-lr-padding">
+            <div class="col-md-4 col-sm-5 no-lr-padding">
                 {% include left-menu.html %}
             </div>
-            <div class="col-md-8">
-                <h1 class="post-title">{{ page.title }}</h1>
-                {{ content }}
-                {% if page.content-image %}
-                    <br/>
-                    <img src="{{ page.content-image | prepend: site.baseurl }}" alt="{{ page.title }}">
-                {% endif %}
+            <div class="col-md-8 col-sm-7">
+                <div class="main-container-content">
+                    <h1 class="post-title">{{ page.title }}</h1>
+                    {{ content }}
+                    {% if page.content-image %}
+                        <br/>
+                        <img src="{{ page.content-image | prepend: site.baseurl }}" alt="{{ page.title }}">
+                    {% endif %}
+                </div>
+                
             </div>
         </div>
     </div>
+    <script>
+        // $(function(){
+            
+        //     setTimeout(function(){
 
+        //         var body = document.body,
+        //         html = document.documentElement;
+        //         var height = Math.max( body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight );
+        //         $('#left-menu').css('height', height-$('.banner').height())
+        //     }, 200)
+        // })
+    </script>
   </body>
 
 </html>
