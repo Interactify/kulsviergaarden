@@ -1,6 +1,6 @@
 ---
 title: Banko
-content-image: /images/uploads/soren-poppe.jpg
+content-image: /images/uploads/banko.jpg
 cmsUserSlug: banko
 date: 2015-10-28T12:00:00.000Z
 permalink: /arrangementer/banko/
@@ -8,7 +8,7 @@ layout: default
 menu-name: Banko
 ---
 
-Der spilles nu banko både mandage og fredage her på 
+Der spilles banko både mandage og fredage her på 
 Kulsviergården.
  
 Mandagsbanko afvikles af støtteforeningen for ASGI og Kulsviergården og drives udelukkende af frivillige hjælpere.
@@ -23,4 +23,5 @@ Dørene åbnes kl. 16.30 og spillet går i gang kl. 18.30.
 
 Nærmere information omkring medlemskort eller lign. kan skaffes via Ulla Hautop på tlf. 20 46 11 59 eller på hautopulla@gmail.com.  
 
-Det er ikke tilladt at medbringe egne mad og drikkevarer.
+Caféen er åben hver gang vi spiller banko og der serveres dagens ret, smørrebrød, lækre kager, øl og vand. 
+OBS: Det er ikke tilladt at medbringe egne mad/- og drikkevarer. 

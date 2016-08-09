@@ -1,11 +1,13 @@
 ---
 content_image: null
-title: Banko nu både mandag og fredag
+title: Banko både mandag og fredag
 categories: Nyheder
 cmsUserSlug: nyheder
 date: 2016-03-30T00:00:00.000Z
 layout: default
 ---
+
+# Banko både mandag og fredag.
 
 Det er med stor glæde, at vi kan meddele, at der nu er bankospil 2 gange om ugen på Kulsviergården, nemlig både mandage og fredage.  
 

@@ -3,7 +3,7 @@ content_image: null
 title: Trækning af lodder efter Alsønderup Festers loppemarked
 categories: Nyheder
 cmsUserSlug: ""
-date: 2016-06-01T00:00:00.000Z
+date: 2016-05-01 
 layout: default
 ---
 
