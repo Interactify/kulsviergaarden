@@ -1,6 +1,6 @@
 ---
 title: Medarbejdere
-content-image: null
+content-image: /images/uploads/betty.jpg
 cmsUserSlug: ""
 permalink: null
 layout: default
