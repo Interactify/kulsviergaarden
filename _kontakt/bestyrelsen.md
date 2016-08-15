@@ -8,4 +8,19 @@ menu-name: Bestyrelsen
 date: 2016-06-23T00:00:00.000Z
 ---
 
-Bestyrelsen
+Palle Madsen (formand)
+
+Carsten Lynge Nielsen (næstformand)
+
+Rasmus Mortensen
+
+Kristian Thorup
+
+Rene Holm Hansen
+
+Ole Caspersen
+
+Gert Dyrløv Andersen
+
+Olina Jægergaard
+
