@@ -8,8 +8,7 @@ menu-name: Kontakt og link til hjemmeside
 date: 2016-06-23T00:00:00.000Z
 ---
 
-Alsønderup Fester afholdes hvert år på Kr. Himmelfartsdag i den lille landsby Alsønderup, som ligger bare 6 km NV fra Hillerød.
- 
+Alsønderup Fester afholdes hvert år på Kr. Himmelfartsdag i den lille landsby Alsønderup, som ligger bare 6 km NV fra Hillerød. 
 Her på Kulsviergården, landsbyens samlingssted, afholder man hvert år Nordsjællands største loppemarked og byfest. 
  
 Alsønderup Fester har mere end 40 år på bagen og er hvert år et tilløbsstykke uden lige. Aktive fra Tulstrup, Alsønderup, Nejede og Bendstrup har gennem mange måneder brugt tid på at samle effekter ind fra det meste af Nordsjælland og Københavns området.
@@ -36,4 +35,4 @@ Ikke mange steder finder man en samarbejdsånd som i Alsønderup
  
 Alle er velkomne til at deltage i arbejdet.
 
-Se mere her: http://www.alsonderupfester.dk/
+Se mere her: www.alsonderupfester.dk
