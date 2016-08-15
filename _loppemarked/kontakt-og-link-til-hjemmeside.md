@@ -1,5 +1,5 @@
 ---
-title: Alsønderup fester
+title: Alsønderup Fester
 content-image: null
 cmsUserSlug: ""
 permalink: null
