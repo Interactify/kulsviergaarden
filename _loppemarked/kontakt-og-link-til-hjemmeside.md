@@ -1,5 +1,5 @@
 ---
-title: Kontakt og link til hjemmeside
+title: Alsønderup Fester
 content-image: null
 cmsUserSlug: ""
 permalink: null
