@@ -137,10 +137,12 @@
         
     </div>
     <div id="nyheder" onclick="window.location.href='/nyheder/'">
-        <h1>Nyheder</h1>
+        {% for nyheder in site.nyhedskasse %}
+        <h1>{{ nyheder.title }}</h1>
         <span class="nyhed-tekst">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus placeat quos esse totam dolor amet illo, eum vero. Repellat molestiae ad, eaque fugiat ex ipsa temporibus cupiditate numquam et repellendus!
+            {{ nyheder.content }}
         </span>
+        {% endfor %}
     </div>
     <div id="kontakt">
         <div class="container-fluid">
