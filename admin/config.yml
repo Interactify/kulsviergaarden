@@ -203,3 +203,16 @@ collections: # A list of collections the CMS should be able to edit
     meta: # Meta data fields. Just like fields, but without any preview element
       - {label: "Dato", name: "date", widget: "date", format: "YYYY-MM-DD"}
       - {label: "Layout (default)", name: "layout", widget: "string", default: "default"}
+
+  - name: "Nyhedskasse" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Nyhedskasse" # Used in the UI, ie.: "New Post"
+    folder: "_nyhedskasse" # The path to the folder where the documents are stored
+    sort: "date:desc" # Default is title:asc
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields: # The fields each document in this collection have
+      - {label: "Overskrift", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Tekst", name: "body", widget: "markdown"}
+    meta: # Meta data fields. Just like fields, but without any preview element
+      - {label: "Dato", name: "date", widget: "date", format: "YYYY-MM-DD"}
+      - {label: "Layout (default)", name: "layout", widget: "string", default: "default"}

@@ -48,4 +48,6 @@ collections:
     forside:
         output: true
         permalink: /:path/
-
+    nyhedskasse:
+        output: true
+    
