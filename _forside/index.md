@@ -1,5 +1,5 @@
 ---
-title: En perle i nordsjælland1
+title: En perle i nordsjælland
 content-image: /images/uploads/forside-banner.jpg
 cmsUserSlug: en-perle-i-nordsjlland
 permalink: /
