@@ -1,11 +1,11 @@
 ---
-title: En perle i nordsjælland
+title: En perle i nordsjælland1
 content-image: /images/uploads/forside-banner.jpg
 cmsUserSlug: en-perle-i-nordsjlland
-date: 2015-10-29T12:00:00.000Z
 permalink: /
 layout: default
 menu-name: null
+date: 2015-10-29T12:00:00.000Z
 ---
 
 Ved landsbyen Alsønderup tæt på skov, gadekær og kirke, finder du Kulsviergården, som er et naturligt samlingspunkt for de omkringliggende byer.
