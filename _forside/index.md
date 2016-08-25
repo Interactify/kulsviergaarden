@@ -1,5 +1,5 @@
 ---
-title: En perle i nordsjælland
+title: Kulsviergården
 content-image: /images/uploads/forside-banner.jpg
 cmsUserSlug: en-perle-i-nordsjlland
 permalink: /
