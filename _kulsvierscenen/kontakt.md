@@ -24,4 +24,4 @@ Kulsvierscenen opfører hvert år også børneforestillinger (8-13 år) og ungdo
 
 Henvendelse vedr. Kulsvierscenen kan ske til formand Birgitte Arke Enghave på tlf. 28 19 11 76 eller på [formand@kulsvierscenen.dk](mailto:formand@kulsvierscenen.dk)
 
-Læs mere her: [www.kulsvierscenen.dk](www.kulsvierscenen.dk)
+Læs mere her: www.kulsvierscenen.dk
