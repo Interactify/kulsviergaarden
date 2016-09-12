@@ -3,7 +3,7 @@ content_image: /images/uploads/fllesspisning-15-oktober-2016/forloren-hare.jpg
 title: " FÆLLESSPISNING 15. oktober 2016"
 categories: Event
 cmsUserSlug: ""
-date: null
+date: 2016-09-12 
 layout: default
 ---
 
