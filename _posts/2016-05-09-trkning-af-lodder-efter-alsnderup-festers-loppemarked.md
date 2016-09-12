@@ -3,15 +3,15 @@ content_image: null
 title: Trækning af lodder efter Alsønderup Festers loppemarked
 categories: Nyheder
 cmsUserSlug: ""
-date: 2016-05-01 
+date: 2016-05-01T00:00:00.000Z
 layout: default
 ---
 
-# **Trækning af lodder efter Alsønderup Festers loppemarked**
+
 
 Så lykkedes det at få trukket gevinsterne på de eftertragtede gavekort til Oslo.
 
-Følgende numre er trukket
+Følgende numre er trukket:
 
 **Gevinst Blå farve**
 
