@@ -23,6 +23,6 @@ Drikkevarer kan som sædvanlig købes i barren til rimelige priser
 Dørene åbnes kl. 18.00
 
 Tilmelding kan ske allerede nu på:
-mail: kulsviergården@kulsviergården.dk
+mail: kulsviergaarden@kulsviergaarden.dk
 
 Tlf. 48286540/61301824
