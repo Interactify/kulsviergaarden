@@ -11,14 +11,16 @@ layout: default
 Vi vil hermed invitere alle vores venner af huset til endnu en fællesspisning.
 
 Denne gang vil vi byde på
+
 Forloren hare m/kartofler og vildtsovs
 
 Waldorfsalat & agurkesalat
 
 Vokse: 			pris pr. kuvert: kr. 100
+
 Børn under 12 år: 	pris pr. kuvert: kr. 50 
 
-Drikkevarer kan som sædvanlig købes i barren til rimelige priser
+Drikkevarer kan som sædvanlig købes i baren til rimelige priser
 
 Dørene åbnes kl. 18.00
 
@@ -26,3 +28,5 @@ Tilmelding kan ske allerede nu på:
 mail: kulsviergaarden@kulsviergaarden.dk
 
 Tlf. 48286540/61301824
+
+Vi glæder os til at se mange af jer. 
