@@ -7,8 +7,6 @@ date: 2016-05-01T00:00:00.000Z
 layout: default
 ---
 
-
-
 Så lykkedes det at få trukket gevinsterne på de eftertragtede gavekort til Oslo.
 
 Følgende numre er trukket:
