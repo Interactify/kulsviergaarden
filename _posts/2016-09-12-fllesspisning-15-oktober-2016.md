@@ -7,7 +7,6 @@ date: 2016-09-11T00:00:00.000Z
 layout: default
 ---
 
-      
 Vi vil hermed invitere alle vores venner af huset til endnu en fællesspisning.
 
 Denne gang vil vi byde på
