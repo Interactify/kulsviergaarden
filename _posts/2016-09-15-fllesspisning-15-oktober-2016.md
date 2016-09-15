@@ -3,7 +3,7 @@ content_image: /images/uploads/forloren-hare.jpg
 title: FÆLLESSPISNING 15. oktober 2016
 categories: Nyheder
 cmsUserSlug: ""
-date: null
+date: 2016-09-15 
 layout: default
 ---
 
