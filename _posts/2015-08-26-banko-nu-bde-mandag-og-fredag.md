@@ -7,8 +7,6 @@ date: 2016-03-30T00:00:00.000Z
 layout: default
 ---
 
-# Banko både mandag og fredag.
-
 Det er med stor glæde, at vi kan meddele, at der nu er bankospil 2 gange om ugen på Kulsviergården, nemlig både mandage og fredage.  
 
 Vores støtteforeningen for Alsønderup Idrætsforeningen og Kulsviergården stiller hver uge med et hold loyale flittige frivillige hjælpere, som sørger for, at bankospillet bliver afviklet til glæde for de mange gæster, som hver uge kommer og spiller banko.  
