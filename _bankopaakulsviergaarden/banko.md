@@ -8,11 +8,10 @@ menu-name: Banko
 date: 2015-10-28T12:00:00.000Z
 ---
 
-Der spilles banko både mandageog fredag her på 
+Der spilles banko både mandag og fredag her på 
 Kulsviergården.
 
- 
-Mandagsbanko afvikles af støtteforeningen for ASGI og Kulsviergården og drives udelukkende af frivillige hjælpere.
+Mandagsbanko afvikles af støtteforeningen for ASG & I og Kulsviergården og drives udelukkende af frivillige hjælpere.
 
 Der spilles banko hver mandag hele året rundt. Den samlede gevinstsum er på over kr. 40.000,00 pr. gang.
 
