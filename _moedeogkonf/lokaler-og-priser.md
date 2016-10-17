@@ -14,7 +14,7 @@ Teatersalen: 250 personer. Prisen for salen er kr. 4.294,00.
 
 Kulsviersalen: 145 personer. Prisen for salen er kr. 2.270,00.
 
-Begge sale kr. 5.539,00. 
+Begge sale til en samlet pris på kr. 5.539,00. 
 
 Malermester Jensen Stue: 24 personer. Prisen for stuen er kr. 1.000,00.
 
