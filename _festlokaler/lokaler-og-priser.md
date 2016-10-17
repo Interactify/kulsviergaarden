@@ -29,5 +29,6 @@ Depositum kr. 3.000,00.
 **Borde**
 
 200 firkantede borde (120*80 cm)
+
 8 runde borde (diameter: 170 cm)
 
