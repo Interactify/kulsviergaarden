@@ -1,14 +1,14 @@
 ---
-title: Over 100 års historie og sjæl i nordsjælland
+title: Kulsviergårdens mange muligheder
 content-image: /images/uploads/show_file.jpg
 cmsUserSlug: historie-og-sjl-i-nordsjlland
-date: 2015-10-29T12:00:00.000Z
 permalink: /om-os/historien
 layout: default
 menu-name: Historien
+date: 2015-10-29T12:00:00.000Z
 ---
 
-Arrangementer fra 20-500 pers. Jeg undtil
+Arrangementer fra 20-500 pers. 
 Kulsviergården har 3 lokaler og en stor sportshal, der kan lejes både med og uden catering. Det mindste lokale er velegnet til mindre selskaber på ca. 20 personer og den største hal kan rumme helt op til 500 personer.
 
 **Kapacitet**
