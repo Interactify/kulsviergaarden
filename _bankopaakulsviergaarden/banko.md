@@ -2,26 +2,28 @@
 title: Banko
 content-image: /images/uploads/banko.jpg
 cmsUserSlug: banko
-date: 2015-10-28T12:00:00.000Z
 permalink: /arrangementer/banko/
 layout: default
 menu-name: Banko
+date: 2015-10-28T12:00:00.000Z
 ---
 
-Der spilles banko både mandage og fredage her på 
+Der spilles banko både mandageog fredag her på 
 Kulsviergården.
+
  
 Mandagsbanko afvikles af støtteforeningen for ASGI og Kulsviergården og drives udelukkende af frivillige hjælpere.
 
-Hver mandag hele året rundt kl. 19.00 afholder vi stort bankospil med en samlet gevinst-sum på over kr. 40.000,00 pr. gang.
+Der spilles banko hver mandag hele året rundt. Den samlede gevinstsum er på over kr. 40.000,00 pr. gang.
 
-Dørene åbnes klokken 17.00. 
+Dørene åbnes klokken 17.00. Selve bankospillet starter kl. 19.00. 
 
 Fredagsbanko afvikles af bankoforeningen Trekløveren, som også udelukkende drives af frivillige hjælpere.
 
 Dørene åbnes kl. 16.30 og spillet går i gang kl. 18.30.
 
-Nærmere information omkring medlemskort eller lign. kan skaffes via Ulla Hautop på tlf. 20 46 11 59 eller på hautopulla@gmail.com.  
+Nærmere information omkring mandagsbanko kan fås hos Birgit Petersen på tlf. 48 28 62 32 og til fredagsbanko hos Ulla Hautop på tlf. 20 46 11 59 eller på hautopulla@gmail.com.  
 
-Caféen er åben hver gang vi spiller banko og der serveres dagens ret, smørrebrød, lækre kager, øl og vand. 
+Caféen er åben hver gang vi spiller banko og der serveres dagens ret, smørrebrød, lækre kager, øl og vand til meget rimelige priser.
+ 
 OBS: Det er ikke tilladt at medbringe egne mad/- og drikkevarer. 
