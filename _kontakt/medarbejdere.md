@@ -22,6 +22,6 @@ kulsviergaarden@kulsviergaarden.dk
 
 Servicemedarbejder:
 
-Vibeke Andersen
+Vibeke Andersen og Anja Andersen
 
 
