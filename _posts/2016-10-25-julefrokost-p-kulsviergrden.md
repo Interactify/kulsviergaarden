@@ -3,7 +3,7 @@ content_image: /images/uploads/uddus-baggrund-a.jpg
 title: Julefrokost på Kulsviergården
 categories: nyheder
 cmsUserSlug: ""
-date: 2016-10-25 
+date: 2016-10-25T00:00:00.000Z
 layout: default
 ---
 
@@ -14,7 +14,7 @@ Julebuffeten afholdes i år som fællesspisning, hvor alle er velkomne, både pr
 Vi serverer lækker julemad og sørger for den gode stemning.  
 Pris pr. kuvert: 275,- kr. (Drikkevarer kan købes til rimelige priser.)  
   
-Menu:   
+**Menu:  ** 
 2 slags sild * Fiskefilet med remoulade * Æg med rejer * Mørbradbøf med bløde løg * Flæskesteg med rødkål og agurkesalat * Sylte med rødbeder og sennep * Leverpostej med svampe og bacon * Hjemmelavet deller med rødkål * Julemedister med rødkål og sennep * Risalamande og mandelgave  
   
 Musik ved PS2DUO – lyt med på [www.youtube.ps2duo.live](http://www.youtube.ps2duo.live/)  
