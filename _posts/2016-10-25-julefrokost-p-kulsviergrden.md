@@ -1,0 +1,23 @@
+---
+content_image: /images/uploads/uddus-baggrund-a.jpg
+title: Julefrokost på Kulsviergården
+categories: nyheder
+cmsUserSlug: ""
+date: null
+layout: default
+---
+
+Klassisk julebuffet og levende musik lørdag den 19. november 2016 på Kulsviergården i Alsønderup  
+  
+Julebuffeten afholdes i år som fællesspisning, hvor alle er velkomne, både private selskaber og firmaer.   
+  
+Vi serverer lækker julemad og sørger for den gode stemning.  
+Pris pr. kuvert: 275,- kr. (Drikkevarer kan købes til rimelige priser.)  
+  
+Menu:   
+2 slags sild * Fiskefilet med remoulade * Æg med rejer * Mørbradbøf med bløde løg * Flæskesteg med rødkål og agurkesalat * Sylte med rødbeder og sennep * Leverpostej med svampe og bacon * Hjemmelavet deller med rødkål * Julemedister med rødkål og sennep * Risalamande og mandelgave  
+  
+Musik ved PS2DUO – lyt med på [www.youtube.ps2duo.live](http://www.youtube.ps2duo.live/)  
+  
+Book jeres pladser allerede nu på kulsviergaarden@kulsviergaarden.dk eller på  
+tlf. 48 28 65 40 og 61 30 18 24  
