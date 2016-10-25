@@ -31,7 +31,7 @@ orderby: 1
   <article class="post-content">
     {% if post.content_image != null %}
         <img src="{{ post.content_image }}" alt="{{ post.title }}">
-    {% endif %}
+    {% endif %}<br/>
     <b>{{ post.title }}</b>
     {{ post.content }}
   </article>
