@@ -16,6 +16,7 @@ Pris pr. kuvert: 275,- kr. (Drikkevarer kan købes til rimelige priser.)
   
 **Menu:  ** 
 2 slags sild * Fiskefilet med remoulade * Æg med rejer * Mørbradbøf med bløde løg * Flæskesteg med rødkål og agurkesalat * Sylte med rødbeder og sennep * Leverpostej med svampe og bacon * Hjemmelavet deller med rødkål * Julemedister med rødkål og sennep * Risalamande og mandelgave  
+Maden leveres af "Et spørgsmål om smag" ved Steffan Bjerregaard Pedersen.
   
 Musik ved PS2DUO – lyt med på [www.youtube.ps2duo.live](http://www.youtube.ps2duo.live/)  
   
