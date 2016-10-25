@@ -3,7 +3,7 @@ content_image: /images/uploads/uddus-baggrund-a.jpg
 title: Julefrokost på Kulsviergården
 categories: nyheder
 cmsUserSlug: ""
-date: null
+date: 2016-10-25 
 layout: default
 ---
 
