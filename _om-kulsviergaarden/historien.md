@@ -23,4 +23,10 @@ date: 2015-10-29T12:00:00.000Z
 
   Hver uge er Kulsviergården hjemsted for 2 faste bankospil: Kulsviergårdens og 37. kreds Alsønderup S. G. &amp; i´s bankospil om mandagen og Trekløverens bankospil om fredagen.
 
-   Idrætshallen bliver fortrinsvis benyttet af 37. kreds Alsønderup S. G.&amp; I. , Alsønderup Skole og private motionister.     En gang om året afholder Alsønderup fester loppemarked på Kulsviergården, nemlig Kristi Himmelfartsdag. Igen bliver loppemarked afholdt af frivillig arbejdskraft med hjælp fra ca. 400 lokale beboer.      Uden økonomisk støtte fra Kulsviergårdens og 37. kreds Alsønderup S. G. &amp; I.'s bankospil og loppemarked kunne Kulsviergården ikke drives.     Kulsviergården bliver i dag drevet som en forening, med en generalforsamlingsvalgt bestyrelse på seks medlemmer, samt en af 37. kreds Alsønderup S. G.&amp; I. udpeget repræsentant.      
+   Idrætshallen bliver fortrinsvis benyttet af 37. kreds Alsønderup S. G.&amp; I. , Alsønderup Skole og private motionister.     
+
+En gang om året afholder Alsønderup fester loppemarked på Kulsviergården, nemlig Kristi Himmelfartsdag. Igen bliver loppemarked afholdt af frivillig arbejdskraft med hjælp fra ca. 400 lokale beboer.      
+
+Uden økonomisk støtte fra Kulsviergårdens og 37. kreds Alsønderup S. G. &amp; I.'s bankospil og loppemarked kunne Kulsviergården ikke drives.     
+
+Kulsviergården bliver i dag drevet som en forening, med en generalforsamlingsvalgt bestyrelse på seks medlemmer, samt en af 37. kreds Alsønderup S. G.&amp; I. udpeget repræsentant.      
