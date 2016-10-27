@@ -1,5 +1,5 @@
 ---
-title: Kulsviergårdens mange muligheder
+title: Kulsviergårdens historie
 content-image: /images/uploads/show_file.jpg
 cmsUserSlug: historie-og-sjl-i-nordsjlland
 permalink: /om-os/historien
@@ -8,47 +8,19 @@ menu-name: Historien
 date: 2015-10-29T12:00:00.000Z
 ---
 
-Arrangementer fra 20-500 pers. 
-Kulsviergården har 3 lokaler og en stor sportshal, der kan lejes både med og uden catering. Det mindste lokale er velegnet til mindre selskaber på ca. 20 personer og den største hal kan rumme helt op til 500 personer.
+    
+ Aktieselskabet Alsønderup Forsamlingshus blev stiftet i august 1897. Derefter blev der tegnet 10 kr. aktier og bygget et forsamlingshus. Opførselsudgiften lå indenfor den opnået aktiekapital kr. 2.297,00 (Beløbet er skævt for 2 fik ikke indbetalt alle 10 kr., da det svarede til mere end en landarbejders ugeløn).
 
-**Kapacitet**
+ Forsamlingshuset blev bygget på Ravnsbjergvej 8.
 
-Teatersalen: 250 personer
-Kulsviersalen: 145 personer
-Malermester Jensen Stue: 24 personer
-Sportshallen: 500 personer
+  I begyndelsen af 1969 blev det besluttet, at tiden var løbet fra det gamle forsamlingshus, der var alt for lille til det voksne behov for mere idræt mm. i lokalsamfundet. Herefter blev det besluttet at opfører Kulsviergården. Byggeriet blev fortrinsvis foretaget ved frivillig arbejdskraft. I efteråret 1969 raserede en storm, der væltede de næsten fuldførte mure. Alligevel kunne Kulsviergården tages i brug i august 1970 og hallen ca. et år efter. Desværre viste det sig snart at Kulsviergårdens kapacitet ikke var stor nok, og Kulsviergården blev herefter udvidede til det den er i dag (dog blev der i 1987 bygget en depotbygning hallens østlige ende).
 
-**Mad og drikke** 
+ Den officielle indvielse fandt sted 23. juni 1973.
 
-Kulsviergården har indgået et tæt og godt samarbejde med Stefan, som kan tilbyde at stå for hele jeres arrangement, 
-hvad enten det er et privat eller firmaarrangement.
+  I forbindelse med nybyggeriet blev Kulsviergården omdannet til selvejende institution med 50 kr. medlemsbeviser.
 
-**Køkken**
+  Kulsviergården har gennem alle årene været samlingspunkt for lokalsamfundet. Her samles folk til fest, teater, dansestævner, juletræsfester, fastelavnsfester, gymnastik mm.
 
-Kulsviergården har et stort, professionelt industrikøkken, som du kan leje til dine arrangementer mod en mindre merydelse.
+  Hver uge er Kulsviergården hjemsted for 2 faste bankospil: Kulsviergårdens og 37. kreds Alsønderup S. G. &amp; i´s bankospil om mandagen og Trekløverens bankospil om fredagen.
 
-**Toiletter**
-
-Gæstetoiletter: 18 stk.
-Handicaptoilet: 1 stk.
-
-**Handicapforhold**
-
-Vores lokaler er handicapvenlige uden dørtrin, ligesom vi også både har handicapparkering og handicaptoilet. 
-
-**Parkeringsmuligheder**
-
-Kulsviergården råder over 200 parkeringspladser inkl. handicapparkering. Afstand: 10 meter.
-
-**Offentlig transport**
-
-Bus 380R - ca. 200 meter.
-
-**Borde**
-
-200 firkantede borde (120*80 cm)
-8 runde borde (diameter: 170 cm)
-
-Mødefaciliteter
-AV-udstyr
-Trådløst internet
+   Idrætshallen bliver fortrinsvis benyttet af 37. kreds Alsønderup S. G.&amp; I. , Alsønderup Skole og private motionister.     En gang om året afholder Alsønderup fester loppemarked på Kulsviergården, nemlig Kristi Himmelfartsdag. Igen bliver loppemarked afholdt af frivillig arbejdskraft med hjælp fra ca. 400 lokale beboer.      Uden økonomisk støtte fra Kulsviergårdens og 37. kreds Alsønderup S. G. &amp; I.'s bankospil og loppemarked kunne Kulsviergården ikke drives.     Kulsviergården bliver i dag drevet som en forening, med en generalforsamlingsvalgt bestyrelse på seks medlemmer, samt en af 37. kreds Alsønderup S. G.&amp; I. udpeget repræsentant.      
