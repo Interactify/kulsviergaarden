@@ -20,7 +20,7 @@ Pris pr. kuvert: 275,- kr. (Drikkevarer kan købes til rimelige priser.)
 2 slags sild * Fiskefilet med remoulade * Æg med rejer * Mørbradbøf med bløde løg * Flæskesteg med rødkål og agurkesalat * Sylte med rødbeder og sennep * Leverpostej med svampe og bacon * Hjemmelavet deller med rødkål * Julemedister med rødkål og sennep * Risalamande og mandelgave  
 Maden leveres af "Et spørgsmål om smag" ved Steffan Bjerregaard Pedersen.
   
-Musik ved PS2DUO – lyt med på [www.youtube.ps2duo.live](http://www.youtube.ps2duo.live/)  
+Musik ved PS2DUO – lyt med på bl.a.[http://ps2duo.dk/video.html](http://ps2duo.dk/video.html)  
   
 Book jeres pladser allerede nu på kulsviergaarden@kulsviergaarden.dk eller på  
 tlf. 48 28 65 40 og 61 30 18 24  
