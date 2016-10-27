@@ -1,5 +1,5 @@
 ---
-content_image: /images/uploads/fllesspisning-15-oktober-2016/forloren-hare.jpg
+content_image: null
 title: " FÆLLESSPISNING 15. oktober 2016"
 categories: Nyheder
 cmsUserSlug: ""
