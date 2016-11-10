@@ -35,4 +35,4 @@ Ikke mange steder finder man en samarbejdsånd som i Alsønderup
  
 Alle er velkomne til at deltage i arbejdet.
 
-Se mere her: www.alsonderupfester.dk
+Se mere her: [www.alsonderupfester.dk](www.alsonderupfester.dk)
