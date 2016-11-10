@@ -1,6 +1,6 @@
 ---
 title: Alsønderup Fester
-content-image: /images/uploads/alsfester.jpg
+content-image: /images/uploads/77d59efe41-alsfester.jpg
 cmsUserSlug: ""
 permalink: null
 layout: default
