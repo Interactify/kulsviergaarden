@@ -12,6 +12,6 @@ Alsønderup Idrætsforening har til huse på Kulsviergården og har en lang ræk
 Der er tilbud indenfor: Badminton, Fodbold, Gymnastik, Rulleskøjteløb, Skydning, Teater og Tennis.   
 Desuden er der udvalg for: Banko og Byfest samt medlemsbladet Lokalnyt.
 
-Læs mere her på www.asgi.dk
+Læs mere her på [www.asgi.dk](www.asgi.dk)
 
     
