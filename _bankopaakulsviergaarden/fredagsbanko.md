@@ -1,6 +1,6 @@
 ---
 title: Fredagsbanko på Kulsviergården
-content-image: null
+content-image: /images/uploads/fredagsbanko-p-kulsviergrden/banko.jpg
 cmsUserSlug: ""
 permalink: null
 layout: default
