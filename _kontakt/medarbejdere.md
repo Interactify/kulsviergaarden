@@ -18,7 +18,7 @@ Telefontid mandag og torsdag
 
 Kl. 8.30 - 15.00 
 
-[kulsviergaarden@kulsviergaarden.dk](www.kulsviergaarden.dk)
+[kulsviergaarden@kulsviergaarden.dk](kulsviergaarden@kulsviergaarden.dk)
 
 Servicemedarbejder:
 
