@@ -16,4 +16,4 @@ Prisen for kaffe/the er kr. 30,00 pr. gang. Drikker du ikke kaffe/the er prisen 
 
 Ved priser "ud af huset" eller fælles spisninger aftales priserne nærmere.
 
-Kontakt evt. karen hansen på tlf. 48 28 68 51, Mona Harder tlf. 48 28 66 82, Joan og Torben Blom tlf. 48 28 60 37 eller Flemming og Hanne Lynge på tlf. 21 21 13 00 for nærmere oplysninger. 
+Kontakt evt. Karen hansen på tlf. 48 28 68 51, Mona Harder tlf. 48 28 66 82, Joan og Torben Blom tlf. 48 28 60 37 eller Flemming og Hanne Lynge på tlf. 21 21 13 00 for nærmere oplysninger. 
