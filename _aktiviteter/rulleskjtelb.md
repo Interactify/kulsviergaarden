@@ -12,4 +12,4 @@ En af vores store tilløbsstykker her på Kulsviergården er vores ugentlig tilb
 
 Der er mulighed for at købe mad og drikke i cafeteriet.
 
-Se evt. nærmere på ASGI´s hjemmeside 
+Se evt. nærmere på ASGI´s hjemmeside [asgi.dk](http://www.asgi.dk/)
