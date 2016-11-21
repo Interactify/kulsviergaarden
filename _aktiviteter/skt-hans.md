@@ -8,4 +8,6 @@ menu-name: Skt. Hans
 date: 2016-06-23T00:00:00.000Z
 ---
 
-Her på Kulsviergården afholder vi Skt. Hans. I 2016 inviterede vi venner af Kulsviergården samt de lokale til fællesspisning med efterfølgende bål og sang.  
+Her på Kulsviergården afholder vi Skt. Hans. I 2016 inviterede vi venner af Kulsviergården samt de lokale til fællesspisning med efterfølgende bål og sang. 
+
+For kommende arrangementer beder vi dig holde øje med nyheder her på hjemmesiden samt på vores facebook.
