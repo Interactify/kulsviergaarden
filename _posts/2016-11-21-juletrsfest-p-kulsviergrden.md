@@ -3,7 +3,7 @@ content_image: /images/uploads/img_2511.jpg
 title: Juletræsfest på Kulsviergården
 categories: Nyheder
 cmsUserSlug: ""
-date: null
+date: 2016-11-21 
 layout: default
 ---
 
