@@ -8,4 +8,6 @@ menu-name: Julearrangement
 date: 2016-06-23T00:00:00.000Z
 ---
 
-Julearrangement
+Kulsviergården afholder juletræsfest for børn og barnlige sjæle en a søndagene sidste i november/først i december.
+
+Se nærmere herom på nyheder her på hjemmesiden eller på vores facebook.
