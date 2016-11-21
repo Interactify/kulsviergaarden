@@ -3,11 +3,11 @@ content_image: /images/uploads/14993463_1334087669944437_8712953214658057492_n.j
 title: Juletræsfest på Kulsviergården
 categories: nyheder
 cmsUserSlug: ""
-date: 2016-11-21 
+date: 2016-11-21T00:00:00.000Z
 layout: default
 ---
 
-  Kom og vær med, når vi igen i år, slår dørene op til en dejlig jule-eftermiddag for hele familien. Vi sørger for julemusik, dans om juletræet, lege med julemanden og uddeling af godteposer til alle børn.   
+Kom og vær med, når vi igen i år, slår dørene op til en dejlig jule-eftermiddag for hele familien. Vi sørger for julemusik, dans om juletræet, lege med julemanden og uddeling af godteposer til alle børn.   
 Der bliver også mulighed for at tage billeder sammen   
 med julemanden, så husk kameraet!  
   
