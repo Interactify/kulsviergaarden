@@ -3,7 +3,7 @@ content_image: /images/uploads/img_2511.jpg
 title: Juletræsfest på Kulsviergården
 categories: Nyheder
 cmsUserSlug: ""
-date: 2016-11-21 
+date: 2016-11-21T00:00:00.000Z
 layout: default
 ---
 
@@ -19,7 +19,7 @@ Kaffe, kage, pølser m/brød samt julegodter kan købes til meget rimelige prise
 
 Pris pr. voksen kr. 60,00 og pr. barn kr. 50,00.
 
-Tilmelding er nødvendig på tlf. 48 28 65 40 eller på mail kulsviergaarden@kulsviergaarden.dk.
+Tilmelding er nødvendig på tlf. 48 28 65 40 eller på mail [kulsviergaarden@kulsviergaarden.dk] (mailto:kulsviergaarden@kulsviergaarden.dk).
 
 S.U. mandag den 28. november.
 
