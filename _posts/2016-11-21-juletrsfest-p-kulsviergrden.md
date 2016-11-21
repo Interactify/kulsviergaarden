@@ -16,5 +16,6 @@ Kaffe &amp; kage, pølser med brød samt julegodter kan købes til meget rimelig
 Pris pr. voksen: 60 kr. Pris pr. barn 50 kr.  
 Tilmelding på telefon 48 28 65 40 eller pr.   
 mail: kulsviergaarden@kulsviergaarden.dk   
+
   
 S.U. senest mandag den 28. november.  
