@@ -1,24 +1,20 @@
 ---
-content_image: /images/uploads/img_2511.jpg
+content_image: /images/uploads/14993463_1334087669944437_8712953214658057492_n.jpg
 title: Juletræsfest på Kulsviergården
-categories: Nyheder
+categories: nyheder
 cmsUserSlug: ""
-date: 2016-11-21T00:00:00.000Z
+date: null
 layout: default
 ---
 
-**Søndag, den 4. december 2016 kl. 14.00 til 16.00.**
-
-Kom og vær med, når vi igen i år slår dørene op til en dejlig juledag for hele familien.
-
-Der bliver julemusik, dans om juletræet, lege med julemanden og uddeling af godteposer til alle børn.
-
-Der bliver også mulighed for at tage billeder sammen med julemanden, så husk kameraet.
-
-Kaffe, kage, pølser m/brød samt julegodter kan købes til meget rimelige priser.
-
-Pris pr. voksen kr. 60,00 og pr. barn kr. 50,00.
-
-Tilmelding er nødvendig på tlf. 48 28 65 40 eller på mail [kulsviergaarden@kulsviergaarden.dk](mailto:kulsviergaarden@kulsviergaarden.dk)
-S.U. mandag den 28. november.
-
+  Kom og vær med, når vi igen i år, slår dørene op til en dejlig jule-eftermiddag for hele familien. Vi sørger for julemusik, dans om juletræet, lege med julemanden og uddeling af godteposer til alle børn.   
+Der bliver også mulighed for at tage billeder sammen   
+med julemanden, så husk kameraet!  
+  
+Kaffe &amp; kage, pølser med brød samt julegodter kan købes til meget rimelige priser.  
+  
+Pris pr. voksen: 60 kr. Pris pr. barn 50 kr.  
+Tilmelding på telefon 48 28 65 40 eller pr.   
+mail: kulsviergaarden@kulsviergaarden.dk   
+  
+S.U. senest mandag den 28. november.  
