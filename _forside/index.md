@@ -17,4 +17,4 @@ Du er velkommen til at kontakte Betty Andersen for en uforpligtende snak om dit/
 
 Tlf.: 48 28 65 40 
 
-Mail: kulsviergaarden@kulsviergaarden.dk
+Mail: [kulsviergaarden@kulsviergaarden.dk](mailto:kulsviergaarden@kulsviergaarden.dk)
