@@ -16,4 +16,4 @@ Lene Kure udstiller flere andre steder, bl.a. permanent i sommerhalvåret i Gall
 
 Fortænk dig ikke med at komme og nyde hendes malerier, som er udstillet i bl.a. Kulsviersalen og Malerm. Jensens stue.
 
-Se evt. også nogle af hendes malerier på hjemmesiden (http://www.lenekure.dk/) [lenekure.dk]. Hun kan også træffes på tlf. 23 96 48 27.
+Se evt. også nogle af hendes malerier på hjemmesiden [lenekure.dk](http://www.lenekure.dk/)Hun kan også træffes på tlf. 23 96 48 27.
