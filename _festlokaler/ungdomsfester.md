@@ -14,4 +14,4 @@ Der er dog lidt flere betingelser, som skal opfyldes, førend festen kan afholde
 
 Bl.a. er der krav til, at der er voksne dørvagter til stede og minimum 4-6 forældre, som også skal være til stede under hele festen. 
 
-Ring/skriv at høre nærmere på tlf. 48 28 65 40 eller mail  kulsviergaarden@kulsviergaarden.dk.
+Ring/skriv at høre nærmere på tlf. 48 28 65 40 eller mail  [kulsviergaarden@kulsviergaarden.dk](mailto:kulsviergaarden@kulsviergaarden.dk)
