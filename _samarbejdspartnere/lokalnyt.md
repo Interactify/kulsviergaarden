@@ -12,4 +12,4 @@ Lokaltnyt er den et fælles blad for Alsønderup og Tjæreby Sogne. Alt lokalt s
 
 Lokalt nyt udkommer og bliver husstandsomdelt til borgere i Alsønderup og Tjæreby sogne 6 gange om året.
 
-Se nærmere på deres hjemmeside [lokaltnyt] (http://www.lokaltnyt.dk/). 
+Se nærmere på deres hjemmeside [lokaltnyt](http://www.lokaltnyt.dk/). 
