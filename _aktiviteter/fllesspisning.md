@@ -1,6 +1,6 @@
 ---
 title: Fællesspisning
-content-image: null
+content-image: /images/uploads/mad1.jpg
 cmsUserSlug: ""
 permalink: null
 layout: default
