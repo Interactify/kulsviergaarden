@@ -8,12 +8,16 @@ menu-name: Kulsvierklubben
 date: 2016-06-23T00:00:00.000Z
 ---
 
-Kulsvierklubben er en aktiv klub for alle pensionister i Hillerød Kommune samt deres hjælpere.
+Kulsvierklubben er en klub for de ældre medborgere, hovedsageligt besøgt af sognets beboere, også når de fraflytter sognet.
 
-Vi mødes ca. hver 14. torsdag  kl. 14.00 i cafeteriet på Kulsviergården i perioden fra oktober til og med april.
+Vi har eksisteret i 33 år og har, takket været Idrætsforeningen 37. kreds og Kulsviergården, fået stillet Cafeteriet til rådighed hver anden torsdag fra kl. 14.00, hvor vi mødes fra oktober til juni.
 
-Prisen for kaffe/the er kr. 30,00 pr. gang. Drikker du ikke kaffe/the er prisen kr. 25,00 pr. gang.
+Der foreligger et årsprogram hver oktober, således at medlemmerne selv kan vælge, hvad de ønsker at se/deltage i.
 
-Ved priser "ud af huset" eller fælles spisninger aftales priserne nærmere.
+Fremmødet er 35-40 personer, og takket været man selv kan medbringe brød til kaffen, koster dagens arrangement kun kr. 30,00. 
 
-Kontakt evt. Karen hansen på tlf. 48 28 68 51, Mona Harder tlf. 48 28 66 82, Joan og Torben Blom tlf. 48 28 60 37 eller Flemming og Hanne Lynge på tlf. 21 21 13 00 for nærmere oplysninger. 
+Ved efterårs/forårsture er der en højere egenbetaling. Til gengæld har vi ingen kontingent.
+
+Alle er hjertelig velkommen, men pas på. Det har vist sig at være vanedannende!
+
+Flere oplysninger, så kontakt Karen B. Hansen på tlf. 48 28 68 51 eller Hanne og Flemming Lynge på tlf. 21 21 13 00.
