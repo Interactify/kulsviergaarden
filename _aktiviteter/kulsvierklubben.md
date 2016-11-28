@@ -14,9 +14,9 @@ Vi har eksisteret i 33 år og har, takket været Idrætsforeningen 37. kreds og 
 
 Der foreligger et årsprogram hver oktober, således at medlemmerne selv kan vælge, hvad de ønsker at se/deltage i.
 
-Fremmødet er 35-40 personer, og takket været man selv kan medbringe brød til kaffen, koster dagens arrangement kun kr. 30,00. 
+Fremmødet er 35-40 personer, og takket være, at man selv kan medbringe brød til kaffen, koster dagens arrangement kun kr. 30,00. 
 
-Ved efterårs/forårsture er der en højere egenbetaling. Til gengæld har vi ingen kontingent.
+Ved efterårs-/forårsture er der en højere egenbetaling. Til gengæld har vi ingen kontingent.
 
 Alle er hjertelig velkommen, men pas på. Det har vist sig at være vanedannende!
 
