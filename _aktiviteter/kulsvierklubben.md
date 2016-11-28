@@ -1,6 +1,6 @@
 ---
 title: Kulsvierklubben
-content-image: /images/uploads/kulsvierklubben-1.jpg
+content-image: /images/uploads/kulsvierklubben-2.jpg
 cmsUserSlug: ""
 permalink: null
 layout: default
