@@ -3,7 +3,7 @@ content_image: /images/uploads/banko.jpg
 title: Julebanko
 categories: Nyheder
 cmsUserSlug: ""
-date: null
+date: 2016-11-28 
 layout: default
 ---
 
