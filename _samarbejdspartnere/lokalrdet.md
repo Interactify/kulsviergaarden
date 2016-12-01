@@ -14,4 +14,4 @@ Lokalrådets formål er aktivt at arbejde for lokalområdets og borgernes intere
 
 Lokalrådets daglige arbejde ledes af en bestyrelse af henholdsvis lokalområdets foreninger og institutioner og blandt de fastboende borgere i Alsønderup Sogn.
 
-Se mere om Lokalrådet på vores hjemmeside 
+Se mere om Lokalrådet på vores hjemmeside  [www.Alsonderup.dk](http://www.alsonderup.dk/)
