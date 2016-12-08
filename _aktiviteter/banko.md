@@ -26,4 +26,4 @@ Nærmere information omkring mandagsbanko kan fås hos Birgit Petersen på tlf. 
 
 Caféen er åben hver gang vi spiller banko og der serveres dagens ret, smørrebrød, lækre kager, øl og vand til meget rimelige priser.
  
-OBS: Det er ikke tilladt at medbringe egne mad- og drikkevarer.Banko
+OBS: Det er ikke tilladt at medbringe egne mad- og drikkevarer.
