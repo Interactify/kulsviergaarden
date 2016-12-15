@@ -3,7 +3,7 @@ content_image: /images/uploads/julebanko-1.jpg
 title: Julehyggespil fredag den 23. december 2016 kl. 18.30
 categories: Nyheder
 cmsUserSlug: ""
-date: null
+date: 2016-12-15 
 layout: default
 ---
 
