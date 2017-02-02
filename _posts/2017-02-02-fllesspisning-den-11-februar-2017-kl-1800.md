@@ -9,7 +9,7 @@ layout: default
 
 Kom til fællesspisning på Kulsviergården den 11. februar og glæd dig til super lækkert stegt flæsk med kartofler og persillesovs.
 
-Prisen er dette gode tilbud er kr. 99,00 for voksne og kr. 50,00 for børn under 12 år.
+Prisen for dette gode tilbud er kr. 99,00 for voksne og kr. 50,00 for børn under 12 år.
 
 Tilmelding kan ske til Kulsviergården på tlf. 48 28 65´40 eller via mail på kulsviergaarden@kulsviergaarden.dk. 
 
