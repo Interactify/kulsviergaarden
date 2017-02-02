@@ -3,7 +3,7 @@ content_image: /images/uploads/stegtflaeskmedpsovs.jpg
 title: Fællesspisning den 11. februar 2017 kl. 18.00
 categories: Nyheder
 cmsUserSlug: ""
-date: 2017-02-02 
+date: 2017-02-01 
 layout: default
 ---
 
