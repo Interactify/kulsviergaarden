@@ -24,7 +24,7 @@ Sportshallen: 500 personer. Ring evt. for nærmere tilbud.
 
 Leje af køkken inkl. service kr. 1.000,00. 
 
-Depositum kr. 3.000,00.
+Depositum fra kr. 3.000,00.
 
 **Borde**
 
