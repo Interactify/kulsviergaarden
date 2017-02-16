@@ -1,34 +1,52 @@
 ---
-content_image: /images/uploads/32c1056e87-ur.jpg
+content_image: /images/uploads/mac-beth.jpg
 title: Kulsvierscenen præsenterer
 categories: Nyheder
 cmsUserSlug: ""
-date: 2016-04-24 
+date: 2016-04-24T00:00:00.000Z
 layout: default
 ---
 
-Kulsvierscenen opfører en revy fyldt med sketch, sang og musik fordelt på 2 afdelinger á ca. 45 min. Med en halv times pause. 
+MACBETH
 
-Revyen indeholder både nutid og nostalgi! Publikum vil blive budt på både helt nye og aktuelle numre og numre fra tidligere Kulsvierrevyer, der vil også være gensyn/hør med game kendte revyviser… minderne har man da lov at ha`… Alt sammen fremført af 7 aktører og en pianist. 
+Men Shakespeares berømte tragedie bliver mishandlet på det grusomste i forsøget på at gøre indtryk på teaterfestivalens
 
-Sammen kigger vi gennem tiderne – har du tid? – så kom! – Tag dig tid – tid til revy på Kulsviergården – der er ingen betænkningstid – det er kvalitetstid – også er det hylende morsomt!  
+dommer hr. Skov eller Lund eller Leth eller hvad han nu hedder.
 
-Kulsvierrevyen 2016. Vi tilbyder følgende forestillinger: 
-**torsdag 2. juni 2016 kl. 19.30, 
-lørdag 4. juni 2016 kl. 14.00 og 
-søndag 5, juni 2016 kl. 14.00** 
+ Alt går galt i denne meget, meget morsomme version af en ellers alvorlig tragedie om den kolde, ondsindede og manipulerende Lady Macbeth og hendes mand, Kong Macbeth af Skotland.
 
-Vi tilbyder bespisning før hver forestilling og Kaffe/the og wienerbrød i pausen 
-Mad: **3 stk. højbelagt og fintskåret smørrebrød (roastbeef, flæskesteg, Laks) pris kr. 75.**
-Maden serveres 1,5 time før forestillingen. Hhv. kl. 12.30 og kl. 18.00.
+ Der planlagt følgende forestillinger i 2017:
 
-Kaffe/the med 1 stk. wienerbrød i pausen pris kr. 40.  
+ Den 4. marts (premiere med efterfølgende bal)
 
-Baren har selvfølgelig også øl, vand og vin.
+Den 5. marts
 
-Mad og kaffe skal forudbestilles sammen med køb af billet og senest 1 uge før.
+Den 11. marts
 
-For yderligere information omkring bespisning og priser gå ind på www.kulsvierscenen.dk, eller kontakt Billetten.dk på Tlf.: 70 20 20 96 eller på hjemmesiden www.billetten.dk. 
+Den 12. marts
 
-Bemærk at der opkræves billet gebyr á kr. 10. For at opnå grupperabat skal tilmeldingen bestå af mindst 15 deltagere, og der skal tages telefonisk kontakt til Billetten.dk. Grupperabat kun på billet: 75 kr. Der kan omkostningsfrit ændres i reservationen op til en uge før forestillingen.Billetter kan printes hjemme, kan tilsendes eller kan afhentes på salgssteder i blandt andet Frederiksborg Centret i Hillerød og på Helsinge Bibliotek. 
+Den 18. marts
 
+Den 19. marts
+
+ Hold øje med Kulsvierscenen på Facebook og her på
+
+www.kulsvierscenen.dk, hvor der snart vil komme
+
+information om billetsalg m.m. 
+
+ Vi tilbyder bespisning før hver forestilling og Kaffe/the og wienerbrød i pausen.
+
+ Billetprisen er 100 kr. Børn 5-15 år 60 kr. Grupper (min. 15 personer) 80 kr. Der er billetsalgs gebyr på 10 kr. 
+
+ Ønsker I at spise, kan vi tilbyde 3 stk smørrebrød til 75 kr til alle forestillinger undtaget premieren, hvor vi serverer en platte til 125,-. Maden serveres 1,5 time før forestillingen, til premieren er der dog bespisning efterfølgende. 
+
+ For yderligere information omkring bespisning og priser kontakt Billetten.dk på: Tlf.: 70 20 20 96 eller på hjemmesiden [www.billetten.dk](http://billetten.dk/). 
+
+ Gruppebilletter kan købes enten på billetten.dk’s hjemmeside eller ved telefonisk kontakt til billetten.dk. Hvis du køber gruppebilletterne på hjemmesiden, skal de betales med det samme og der vil IKKE være mulighed for at ændre bestillingen.
+
+ Billetter kan printes hjemme, kan tilsendes eller kan afhentes på salgssteder i blandt andet Frederiksborg Centret i Hillerød og på Helsinge Bibliotek.
+
+ Kaffe/the og kage kan bestilles for 40,- For bestilling af kaffe/the til før og efter forestillingen, skal dette også ske på [billetten.dk](http://billetten.dk/)
+
+  
