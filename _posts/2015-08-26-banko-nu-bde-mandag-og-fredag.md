@@ -1,6 +1,6 @@
 ---
 content_image: null
-title: Banko både mandag og fredag
+title: Banko mandag og fredag
 categories: Nyheder
 cmsUserSlug: ""
 date: 2016-03-30T00:00:00.000Z
