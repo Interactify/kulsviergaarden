@@ -1,6 +1,6 @@
 ---
 content_image: /images/uploads/mac-beth.jpg
-title: Kulsvierscenen præsenterer
+title: Kulsvierscenen præsenterer Mac Beth
 categories: Nyheder
 cmsUserSlug: ""
 date: 2016-04-24T00:00:00.000Z
