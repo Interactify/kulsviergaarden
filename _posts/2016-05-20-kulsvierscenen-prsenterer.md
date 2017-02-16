@@ -1,6 +1,6 @@
 ---
 content_image: /images/uploads/mac-beth.jpg
-title: Kulsvierscenen præsenterer Mac Beth
+title: Kulsvierscenen opfører dette forår MACBETH
 categories: Nyheder
 cmsUserSlug: ""
 date: 2016-04-24T00:00:00.000Z
@@ -11,13 +11,7 @@ Vi får nemlig besøg af Nedre Skensved og Oplands Husmoderforening og Teaterklu
 
 som deltager i De Samvirkende Husmoderforeningers Amatørteaterfestival.
 
-Teaterklubben vil opføre
-
-  MACBETH
-
-Men Shakespeares berømte tragedie bliver mishandlet på det grusomste i forsøget på at gøre indtryk på teaterfestivalens
-
-dommer hr. Skov eller Lund eller Leth eller hvad han nu hedder.
+Men Shakespeares berømte tragedie bliver mishandlet på det grusomste i forsøget på at gøre indtryk på teaterfestivalens dommer hr. Skov eller Lund eller Leth eller hvad han nu hedder.
 
  Alt går galt i denne meget, meget morsomme version af en ellers alvorlig tragedie om den kolde, ondsindede og manipulerende Lady Macbeth og hendes mand, Kong Macbeth af Skotland.
 
