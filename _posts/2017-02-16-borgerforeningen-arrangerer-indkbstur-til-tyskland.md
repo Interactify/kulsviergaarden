@@ -28,22 +28,7 @@ color:#070707'><o:p>&nbsp;</o:p></span></p>
 <p align=center style='text-align:center'><span style='font-size:14.0pt;
 color:#070707'>Prisen er <i style='mso-bidi-font-style:normal'>kr. 225,- for
 medlemmer af Borgerforeningen</i> og kr. 275,- ellers, men til samme pris kan
-du både blive medlem og få turen til den fordelagtige medlemspris! <o:p></o:p></span></p>
-
-<p><span style='font-size:14.0pt;mso-bidi-font-weight:bold'><o:p>&nbsp;</o:p></span></p>
-
-<p><b style='mso-bidi-font-weight:normal'><span style='font-size:14.0pt;
-color:#C00000'>Tilmelding:<o:p></o:p></span></b></p>
-
-<p><span style='font-size:14.0pt;color:#0070C0'>https://alsønderup.nu</span><span
-style='font-size:14.0pt;color:#00B0F0'> </span><i style='mso-bidi-font-style:
-normal'><span style='font-size:14.0pt;color:#0C0C0C'>eller</span></i><span
-style='font-size:14.0pt;color:#0C0C0C'> </span><span style='font-size:14.0pt;
-color:#0070C0'>Annette på tlf. 40632716</span><span style='font-size:14.0pt;
-color:#0C0C0C'> <i style='mso-bidi-font-style:normal'>eller</i> </span><span
-style='font-size:14.0pt;color:#0070C0'>borger@alsønderup.nu<o:p></o:p></span></p>
-
-<p><span style='font-size:14.0pt;color:#0C0C0C'>Tilmelding er bindende og efter
+du både blive medlem og få turen til den fordelagtige medlemspris! Tilmelding: Annette på tlf. 40632716 borger@alsønderup.nustyle='font-size:14.0pt;color:#0C0C0C'>Tilmelding er bindende og efter
 først-til-mølle princippet, der er plads til minimum 50 personer</span><span
 style='font-size:14.0pt'>.<i style='mso-bidi-font-style:normal'> Man skal være
 fyldt 18 år for at deltage.</i><o:p></o:p></span></p>
