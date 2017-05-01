@@ -3,7 +3,7 @@ content_image: /images/uploads/16295594_10211973612482482_477863642_n.jpg
 title: Hjertestarter opsat på Kulsviergården
 categories: Nyheder
 cmsUserSlug: ""
-date: 2017-05-01 
+date: 2017-04-23 
 layout: default
 ---
 
