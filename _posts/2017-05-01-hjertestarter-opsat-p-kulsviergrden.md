@@ -3,11 +3,11 @@ content_image: /images/uploads/16295594_10211973612482482_477863642_n.jpg
 title: Hjertestarter opsat på Kulsviergården
 categories: Nyheder
 cmsUserSlug: ""
-date: 2017-04-23 
+date: 2017-04-23T00:00:00.000Z
 layout: default
 ---
 
-Kulsviergården har i samarbejde med ASGI taget initiativ til at søge om en hjertestarter. Vi har så heldige at komme med i Trygfondens pulje, hvorfor der nu er ophængt en hjertestarter til gavn og glæde for alle omkringliggende beboere. 
+Kulsviergården har i samarbejde med ASGI taget initiativ til at søge om en hjertestarter. Vi var så heldige at komme med i Trygfondens pulje, hvorfor der nu er ophængt en hjertestarter til gavn og glæde for alle omkringliggende beboere. 
 
 Med i den flotte donation fulgte et kursus, hvor udvalgte personer fra Kulsviergården, ASGI og Hillerød Vest-skolen/Alsønderup Skole blev uddannet i hvordan hjertestarteren bruges.
 
