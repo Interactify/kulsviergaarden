@@ -3,7 +3,7 @@ content_image: /images/uploads/sankt-hans-billede-kopi.jpg
 title: Sankt Hans
 categories: Nyheder
 cmsUserSlug: ""
-date: null
+date: 2017-05-29 
 layout: default
 ---
 
