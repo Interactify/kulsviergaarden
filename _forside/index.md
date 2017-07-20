@@ -1,5 +1,5 @@
 ---
-title: Kulsviergården
+title: "Kulsviergården "
 content-image: /images/uploads/forside-banner.jpg
 cmsUserSlug: en-perle-i-nordsjlland
 permalink: /
@@ -7,6 +7,8 @@ layout: default
 menu-name: null
 date: 2015-10-29T12:00:00.000Z
 ---
+
+OBS: Kulsviergårdens administration har ferielukket uge 30 og 31. Kontakt evt. Kulsviergårdens formand, Palle Madsen, på tlf. 23 25 05 06 eller ved udlejning, Niels Pedersen tlf. 61 30 18 24. 
 
 Ved landsbyen Alsønderup tæt på skov, gadekær og kirke, finder du Kulsviergården, som er et naturligt samlingspunkt for Alsønderup og de omkringliggende landsbyer.
 
