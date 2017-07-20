@@ -8,7 +8,7 @@ menu-name: Medarbejdere
 date: 2016-06-14T00:00:00.000Z
 ---
 
-Administration:
+Administration/ferielukket uge 30 og 31 2017
 
 Betty Andersen
 
