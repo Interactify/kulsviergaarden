@@ -21,7 +21,7 @@ Fredagsbanko afvikles af bankoforeningen Trekløveren, som også udelukkende dri
 
 Dørene åbnes kl. 16.30 og spillet går i gang kl. 18.30.
 
-Nærmere information omkring mandagsbanko kan fås hos Birgit Petersen på tlf. 48 28 62 32 og til fredagsbanko hos Ulla Hautop på tlf. 20 46 11 59 eller på hautopulla@gmail.com.  
+Nærmere information omkring mandagsbanko og fredagsbanko hos Ulla Hautop på tlf. 20 46 11 59 eller på hautopulla@gmail.com.  
 
 Caféen er åben hver gang vi spiller banko og der serveres dagens ret, smørrebrød, lækre kager, øl og vand til meget rimelige priser.
  
