@@ -12,7 +12,7 @@ ASG & I og Kulsviergården afholder hver mandag hele året rundt bankospil. Bank
 
 Den samlede gevinst-sum er over kr. 40.000,00 hver gang.
 
-Mandagsbanko tilbyder buskørsel. Kontakt evt. Birgit Petersen på tlf. 48 28 62 32 for nærmere oplysninger.
+Mandagsbanko tilbyder buskørsel. Kontakt evt.  Ulla Hautorp på tlf.  for nærmere oplysninger.
 
 Dørene åbnes kl. 17.00 og spillet starter kl. 19.00. 
 
