@@ -20,6 +20,6 @@ kr. 50,00 for børn under 12 år.
 
 Tilmelding kan ske på tlf. 48 28 65 40 eller 61 30 18 24.
 
-Tilmelding er bindende og betaling skal ske via netbank.
+Betaling sker ved tilmelding (konto nr. oplyses ved tilmelding).
 
 Sidste tilmelding er den 26. september 2017. 
