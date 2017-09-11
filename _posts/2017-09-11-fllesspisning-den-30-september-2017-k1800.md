@@ -3,13 +3,13 @@ content_image: /images/uploads/flskesteg.jpg
 title: Fællesspisning den 30. september 2017 k.18.00
 categories: Nyheder
 cmsUserSlug: ""
-date: 2017-09-03 
+date: null
 layout: default
 ---
 
-Så er det tid til vores hyggelig fællesspisning igen. 
+Så er det tid til vores hyggelige fællesspisning igen. 
 
-Vi servere flæskesteg m/kartofler og lækker sovs samt tilbehør.
+Vi serverer flæskesteg m/kartofler og lækker sovs samt tilbehør.
 
 Det løber af stablen lørdag, den 30. september 2017 kl. 18.00.
 
