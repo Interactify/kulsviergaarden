@@ -3,7 +3,7 @@ content_image: /images/uploads/flskesteg.jpg
 title: Fællesspisning den 30. september 2017 k.18.00
 categories: Nyheder
 cmsUserSlug: ""
-date: null
+date: 2017-09-03 
 layout: default
 ---
 
