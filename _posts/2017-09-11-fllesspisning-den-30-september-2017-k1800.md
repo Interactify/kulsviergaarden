@@ -7,7 +7,6 @@ date: null
 layout: default
 ---
 
-
 Så er det tid til vores hyggelige fællesspisning igen. 
 
 Vi serverer flæskesteg m/kartofler og lækker sovs samt tilbehør.
