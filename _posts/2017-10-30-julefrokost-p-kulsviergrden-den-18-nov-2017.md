@@ -3,7 +3,7 @@ content_image: /images/uploads/ps2duo.jpg
 title: "Julefrokost på Kulsviergården den 18. nov. 2017 "
 categories: Nyheder
 cmsUserSlug: ""
-date: null
+date: 2017-10-30 
 layout: default
 ---
 
