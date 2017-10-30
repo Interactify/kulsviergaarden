@@ -8,9 +8,9 @@ menu-name: Bestyrelsen
 date: 2016-06-23T00:00:00.000Z
 ---
 
-Palle Madsen (formand)
+Carsten Lynge (formand)
 
-Carsten Lynge Nielsen (næstformand)
+John Rand (næstformand)
 
 Rasmus Mortensen
 
@@ -18,7 +18,7 @@ Kristian Thorup
 
 Rene Holm Hansen
 
-Ole Caspersen
+Ulrik Ditlev Bolm-Spohr
 
 Gert Dyrløv Andersen
 
