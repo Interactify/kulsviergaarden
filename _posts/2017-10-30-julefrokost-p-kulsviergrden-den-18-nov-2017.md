@@ -7,7 +7,7 @@ date: 2017-10-30
 layout: default
 ---
 
-Kom til festlig julefrokost den 18. nov. 2017, hvor " Et spørgsmål om smag" vil står for en lækker julebuffet og PS2Duo (se billedet) vil står for en uovertruffen underholdning. 
+Kom til festlig julefrokost den 18. nov. 2017, hvor " Et spørgsmål om smag" står for en lækker julebuffet og PS2Duo (se billedet) vil stå for en uovertruffen underholdning. 
 
 Prisen pr. kuvert er kr. 299,00. Tilkøb af fri bar bestående af øl/vin og sodavand kan tilkøbes for kr. 299,00 pr. kuvert.
 
