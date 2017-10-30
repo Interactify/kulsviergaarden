@@ -10,9 +10,10 @@ layout: default
 Kulsviergården inviterer igen i år til juletræsfest for børn og voksne.   
   
 For tredje år i træk arrangerer Kulsviergården juletræsfest for børn og voksne fra lokalsamfundet.   
+
 Alle er velkomne, store som små, gamle som unge.  
   
-Pris for deltagelse:  
+**Pris for deltagelse**:  
 Børn 40 kr. (inkl. godtepose og saftevand og æbleskiver)  
 Voksne 55 kr. (inkl. kaffe og æbleskiver)  
   
