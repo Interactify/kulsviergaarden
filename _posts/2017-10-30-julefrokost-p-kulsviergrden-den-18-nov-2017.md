@@ -28,7 +28,7 @@ Brød og smør
 
 Tilmelding kan ske til
 [kulsviergaarden@kulsviergaarden.dk](mailto:kulsviergaarden@kulsviergaarden.dk) eller på tlf. 48 28 65 40
-eller til Niels på 61 30 18 24 eller [cafe.bjerregaard@gmail.com] (mailto:cafe.bjerregaard@gmail.com)
+eller til Niels på 61 30 18 24 eller [cafe.bjerregaard@gmail.com](mailto:cafe.bjerregaard@gmail.com)
 
 
 
