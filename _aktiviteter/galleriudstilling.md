@@ -1,6 +1,6 @@
 ---
 title: Galleriudstilling
-content-image: /images/uploads/lene-kure.jpg
+content-image: /images/uploads/anne-marie-escobar.jpg
 cmsUserSlug: ""
 permalink: null
 layout: default
