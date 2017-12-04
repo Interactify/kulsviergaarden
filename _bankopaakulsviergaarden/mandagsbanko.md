@@ -16,4 +16,3 @@ Mandagsbanko tilbyder buskørsel. Kontakt evt.  Ulla Hautop på tlf. 20 46 11 59
 
 Dørene åbnes kl. 17.00 og spillet starter kl. 19.00. 
 
-OBS. Mandagsbanko holder juleferie fra den 19. december og spiller derfor sidste gang i 2016 den 12. december.
