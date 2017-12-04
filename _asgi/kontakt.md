@@ -1,6 +1,6 @@
 ---
 title: Alsønderup Idrætsforening
-content-image: /images/uploads/tarm_idtrt.jpg
+content-image: /images/uploads/nerf.jpg
 cmsUserSlug: ""
 permalink: null
 layout: default
