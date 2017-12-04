@@ -1,6 +1,6 @@
 ---
 title: Julearrangement
-content-image: /images/uploads/img_2511.jpg
+content-image: /images/uploads/24312700_10154871988240957_2676009497129504791_n.jpg
 cmsUserSlug: ""
 permalink: null
 layout: default
