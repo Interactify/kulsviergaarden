@@ -16,3 +16,6 @@ Mandagsbanko tilbyder buskørsel. Kontakt evt.  Ulla Hautop på tlf. 20 46 11 59
 
 Dørene åbnes kl. 17.00 og spillet starter kl. 19.00. 
 
+Bemærk venligst at det ikke er tilladt at medbringe egne mad og drikkevarer. 
+
+Dagens ret, smørrebrød, kaffe og kage kan købes til meget rimelige priser i caféen.
