@@ -3,7 +3,7 @@ content_image: /images/uploads/24312700_10154871988240957_2676009497129504791_n.
 title: Juletræsfesten 2017
 categories: Nyheder
 cmsUserSlug: ""
-date: null
+date: 2017-12-04 
 layout: default
 ---
 
