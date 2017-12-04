@@ -22,6 +22,6 @@ Ud over denne forestilling laver gruppen hvert år en revy - Kulsvierrevyen, som
 
 Kulsvierscenen opfører hvert år også børneforestillinger (8-13 år) og ungdomsforestillinger (14-17), som har premiere i henholdsvis september og november.
 
-Henvendelse vedr. Kulsvierscenen kan ske til formand Susanne Andreasen på [formand@kulsvierscenen.dk](mailto:formand@kulsvierscenen.dk)
+Henvendelse vedr. Kulsvierscenen kan ske til formand Susanne Andreasen på enten tlf. 40 43 38 59 eller på mail  [s.andreasen3400@gmail.com](mailto:s.andreasen3400@gmail.com)
 
 Læs mere her: [www.kulsvierscenen.dk](http://kulsvierscenen.dk/). 
