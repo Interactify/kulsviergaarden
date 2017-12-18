@@ -16,7 +16,7 @@ Menuen vil variere fra gang til gang og kvaliteten vil fortsat være i top, da d
 
  Prisen pr. kuvert er 100 kr. for voksne og 50 kr. for børn under 12 år.
 
- Øl, vin og sodavand kan købes til små priser i barren.
+ Øl, vin og sodavand kan købes til små priser i baren.
 
  Tilmelding skal ske senest en uge før arrangementet på 
  [booking@kulsviergaarden.dk](mailto:booking@kulsviergaarden.dk)   
