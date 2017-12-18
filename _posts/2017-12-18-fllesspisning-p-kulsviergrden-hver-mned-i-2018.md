@@ -27,4 +27,4 @@ Menuen vil variere fra gang til gang og kvaliteten vil fortsat være i top, da d
  Hjertelig velkommen   
  Kulsviergårdens bestyrelse og personale
 
-    N�4jɇ    
+  
