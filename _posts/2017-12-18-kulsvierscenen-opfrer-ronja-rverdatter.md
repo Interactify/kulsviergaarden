@@ -3,7 +3,7 @@ content_image: /images/uploads/ronja-rverdatter.jpg
 title: Kulsvierscenen opfører Ronja Røverdatter
 categories: Nyheder
 cmsUserSlug: ""
-date: null
+date: 2017-12-17 
 layout: default
 ---
 
