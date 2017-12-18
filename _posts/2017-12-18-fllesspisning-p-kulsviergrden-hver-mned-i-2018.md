@@ -18,4 +18,13 @@ Menuen vil variere fra gang til gang og kvaliteten vil fortsat være i top, da d
 
  Øl, vin og sodavand kan købes til små priser i barren.
 
- Tilmelding skal ske senest en uge før arrangementet på    
+ Tilmelding skal ske senest en uge før arrangementet på 
+ [booking@kulsviergaarden.dk](mailto:booking@kulsviergaarden.dk)   
+ eller via telefon 48 28 65 40 / 61 30 18 24.  
+   
+ Hold øje med vores Facebook side [www.facebook.dk/kulsviergaarden](http://www.facebook.dk/kulsviergaarden) - hvor vi løbende opdaterer med arrangementer, menuer og andre spændende nyheder.
+
+ Hjertelig velkommen   
+ Kulsviergårdens bestyrelse og personale
+
+    N�4jɇ    
