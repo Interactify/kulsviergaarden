@@ -3,14 +3,15 @@ content_image: /images/uploads/fllesspisning.jpg
 title: Fællesspisning på Kulsviergården hver måned i 2018
 categories: Nyheder
 cmsUserSlug: ""
-date: 2017-12-18 
+date: 2017-12-18T00:00:00.000Z
 layout: default
 ---
 
-
-Torsdag, den 1. februar 2018 starter vi op med den hyggelige og traditionelle fællesspisning på Kulsviergården.
+Torsdag, den 1. marts er vores næste hyggelige fællesspisning her på Kulsviergården.
    
-Herefter holdes der månedlig fællesspisning hver den 1. torsdag i måneden. Sæt derfor allerede nu stort X i kalenderen – hver måned! **HUSK** også at fortælle det til din nabo, genbo, bedsteforældre, de andre forældre i børnenes klasse, de unge, de gamle, ja  **ALLE** der vil nyde lidt god mad til en billig pris og samtidig slippe for opvasken.
+Denne gang skal vi have forloren hare, som kun vores mormor kunne lave det! Glæd jer!
+
+Der holdes månedlig fællesspisning hver den 1. torsdag i måneden. Sæt derfor allerede nu stort X i kalenderen – hver måned! **HUSK** også at fortælle det til din nabo, genbo, bedsteforældre, de andre forældre i børnenes klasse, de unge, de gamle, ja  **ALLE** der vil nyde lidt god mad til en billig pris og samtidig slippe for opvasken.
 
 Menuen vil variere fra gang til gang og kvaliteten vil fortsat være i top, da det er vores ”hus-kok” Steffen Bjerregaard & Co., der leverer maden.
 
