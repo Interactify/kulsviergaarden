@@ -1,5 +1,5 @@
 ---
-content_image: /images/uploads/fllesspisning.jpg
+content_image: /images/uploads/ristaffel.jpg
 title: Fællesspisning på Kulsviergården hver måned i 2018
 categories: Nyheder
 cmsUserSlug: ""
