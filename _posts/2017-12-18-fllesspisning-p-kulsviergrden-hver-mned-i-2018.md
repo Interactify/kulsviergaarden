@@ -7,9 +7,8 @@ date: 2017-12-18T00:00:00.000Z
 layout: default
 ---
 
-Torsdag, den 1. marts er vores næste hyggelige fællesspisning her på Kulsviergården.
+Næste gang bliver det ristaffel torsdag, den 5. april 2018 her på Kulsviergården.
    
-Denne gang skal vi have forloren hare, som kun vores mormor kunne lave det! Glæd jer!
 
 Der holdes månedlig fællesspisning hver den 1. torsdag i måneden. Sæt derfor allerede nu stort X i kalenderen – hver måned! **HUSK** også at fortælle det til din nabo, genbo, bedsteforældre, de andre forældre i børnenes klasse, de unge, de gamle, ja  **ALLE** der vil nyde lidt god mad til en billig pris og samtidig slippe for opvasken.
 
@@ -19,9 +18,9 @@ Menuen vil variere fra gang til gang og kvaliteten vil fortsat være i top, da d
 
  Øl, vin og sodavand kan købes til små priser i baren.
 
- Tilmelding skal ske senest en uge før arrangementet på 
- [booking@kulsviergaarden.dk](mailto:booking@kulsviergaarden.dk)   
- eller via telefon 48 28 65 40 / 61 30 18 24.  
+ Tilmelding skal ske senest 3 dage før før arrangementet på 
+ [booking@kulsviergaarden.dk](mailto:booking@kulsviergaarden.dk) 
+ eller via telefon 48 28 65 40 / 61 30 18 24  Betaling sker samtidig med tilmeldingen på mobilepay 75462 eller ved oplyst kontonr.  
    
  Hold øje med vores Facebook side [www.facebook.dk/kulsviergaarden](http://www.facebook.dk/kulsviergaarden) - hvor vi løbende opdaterer med arrangementer, menuer og andre spændende nyheder.
 
