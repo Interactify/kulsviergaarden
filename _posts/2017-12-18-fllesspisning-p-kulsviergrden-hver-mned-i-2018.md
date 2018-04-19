@@ -1,5 +1,5 @@
 ---
-content_image: /images/uploads/ristaffel.jpg
+content_image: /images/uploads/mrbradgryde.jpg
 title: Fællesspisning på Kulsviergården hver måned i 2018
 categories: Nyheder
 cmsUserSlug: ""
@@ -7,7 +7,7 @@ date: 2017-12-18T00:00:00.000Z
 layout: default
 ---
 
-Næste gang bliver det ristaffel torsdag, den 5. april 2018 her på Kulsviergården.
+Næste gang bliver det dejlig mørbradgryde med kartoffelmos torsdag, den 3. maj 2018 kl. 18.00 på Kulsviergården.
    
 
 Der holdes månedlig fællesspisning hver den 1. torsdag i måneden. Sæt derfor allerede nu stort X i kalenderen – hver måned! **HUSK** også at fortælle det til din nabo, genbo, bedsteforældre, de andre forældre i børnenes klasse, de unge, de gamle, ja  **ALLE** der vil nyde lidt god mad til en billig pris og samtidig slippe for opvasken.
