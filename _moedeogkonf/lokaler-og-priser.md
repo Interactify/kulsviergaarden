@@ -18,7 +18,7 @@ Begge sale til en samlet pris på kr. 5.539,00.
 
 Malermester Jensen Stue: 24 personer. Prisen for stuen er kr. 1.000,00.
 
-Sportshallen: 500 personer. Ring evt. for nærmere tilbud.
+Sportshallen: 500 personer. Ringeller skriv for nærmere tilbud.
 
 Leje af køkken inkl. service kr. 1.000,00. 
 
