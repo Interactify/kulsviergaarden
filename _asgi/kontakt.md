@@ -9,7 +9,7 @@ date: 2016-06-23T00:00:00.000Z
 ---
 
 Alsønderup Idrætsforening har til huse på Kulsviergården og har en lang række afdelinger, som har tilbud til mennesker i alle aldre og med mange forskellige interesser. 
-Der er tilbud indenfor: Badminton, Fodbold, Gymnastik, Rulleskøjteløb, Skydning, Teater og Tennis. Som noget helt nyt har vi tillige fået NERF-kamp til stor begejstring for mange børn og unge.
+Der er tilbud indenfor: Badminton, Fodbold, Gymnastik, Rulleskøjteløb, Skydning, Teater og Tennis. Som noget helt nyt har vi tillige fået NERF-kamp til stor begejstring for mange børn som voksne.
   
 Desuden er der udvalg for: Banko og Byfest samt medlemsbladet Lokalnyt.
 
