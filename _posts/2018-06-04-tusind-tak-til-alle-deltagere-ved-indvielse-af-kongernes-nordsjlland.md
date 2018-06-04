@@ -3,7 +3,7 @@ content_image: /images/uploads/img_1193-002.jpg
 title: Tusind tak til alle deltagere ved indvielse af Kongernes Nordsjælland
 categories: Nyheder
 cmsUserSlug: ""
-date: null
+date: 2018-06-04 
 layout: default
 ---
 
