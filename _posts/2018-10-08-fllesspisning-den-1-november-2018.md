@@ -13,7 +13,7 @@ Prisen er som altid kr. 100,00 for voksne og kr. 50,00 for børn under 12 år.
 
 Drikkevarer kan købes i baren til meget rimelige priser.
 
-Husk at tilmelde jer INDEN den 29. oktober 2018 på enten tlf. 48 28 65 40, tlf. 61 30 18 24 eller på [kulsviergaarden@kulsviergarden.dk] (mailto:kulsviergaarden@kulsviergaarden.dk), booking@kulsviergaarden.dk. 
+Husk at tilmelde jer INDEN den 29. oktober 2018 på enten tlf. 48 28 65 40, tlf. 61 30 18 24 eller på [kulsviergaarden@kulsviergarden.dk](mailto:kulsviergaarden@kulsviergaarden.dk), booking@kulsviergaarden.dk. 
 
 Ved tilmelding oplyses et konto nr. eller mobilepay nr.
 
