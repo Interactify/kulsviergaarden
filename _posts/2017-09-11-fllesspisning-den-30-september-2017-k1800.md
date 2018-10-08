@@ -3,7 +3,7 @@ content_image: /images/uploads/mindekoncert-for-kim-larsenfllesspisning-den-30-s
 title: "Mindekoncert for KIM LARSEN onsdag den 24. oktober 2018 på Kulsviergården "
 categories: Nyheder
 cmsUserSlug: ""
-date: 2017-09-03T00:00:00.000Z
+date: 2018-10-01 
 layout: default
 ---
 
