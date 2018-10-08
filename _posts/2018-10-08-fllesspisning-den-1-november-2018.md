@@ -1,9 +1,9 @@
 ---
-content_image: /images/uploads/flskesteg.jpg
+content_image: /images/uploads/flskesteg-1.jpg
 title: Fællesspisning den 1. november 2018 på Kulsviergården
 categories: Nyheder
 cmsUserSlug: ""
-date: 2018-10-01 
+date: 2018-10-01T00:00:00.000Z
 layout: default
 ---
 
