@@ -2,7 +2,7 @@
 content_image: /images/uploads/flskesteg.jpg
 title: Fællesspisning den 1. november 2018
 categories: Nyheder
-cmsUserSlug: 08-10-2018
+cmsUserSlug: ""
 date: null
 layout: default
 ---
