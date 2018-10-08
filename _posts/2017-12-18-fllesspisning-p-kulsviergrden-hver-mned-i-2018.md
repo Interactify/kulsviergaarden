@@ -1,5 +1,5 @@
 ---
-content_image: /images/uploads/frikadeller-og-sommerkl.jpg
+content_image: /images/uploads/fllesspisning.jpg
 title: Fællesspisning på Kulsviergården hver måned i 2018
 categories: Nyheder
 cmsUserSlug: ""
@@ -7,8 +7,7 @@ date: 2017-12-18T00:00:00.000Z
 layout: default
 ---
 
-Sidste gang inden sommerferien bliver torsdag den 7. juni 2018 kl. 18.00.
-   
+  
 
 Der holdes månedlig fællesspisning hver den 1. torsdag i måneden. Sæt derfor allerede nu stort X i kalenderen – hver måned! **HUSK** også at fortælle det til din nabo, genbo, bedsteforældre, de andre forældre i børnenes klasse, de unge, de gamle, ja  **ALLE** der vil nyde lidt god mad til en billig pris og samtidig slippe for opvasken.
 
