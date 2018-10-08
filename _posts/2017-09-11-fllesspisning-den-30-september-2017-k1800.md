@@ -1,25 +1,26 @@
 ---
-content_image: /images/uploads/flskesteg.jpg
-title: Fællesspisning den 30. september 2017 k.18.00
+content_image: /images/uploads/mindekoncert-for-kim-larsenfllesspisning-den-30-september-2017-k1800/kim-larsen-3.jpg
+title: "Mindekoncert for KIM LARSEN onsdag den 24. oktober 2018 på Kulsviergården "
 categories: Nyheder
 cmsUserSlug: ""
-date: 2017-09-03 
+date: 2017-09-03T00:00:00.000Z
 layout: default
 ---
 
-Så er det tid til vores hyggelige fællesspisning igen. 
+Kære alle **Kim Larsens** fan. Vi vil gerne mindes denne store folkekære "gavflab" og sangskriver med en mindekoncert på Kulsviergården onsdag den 24. oktober 2018 kl. 19.00, hvor vi genoplever nogle af de største hit. 
 
-Vi serverer flæskesteg m/kartofler og lækker sovs samt tilbehør.
+**Rene Richardt** fra Græsted revyen vil i bedste Kim Larsens stil spille nogle af Larsens fantastiske sange.
 
-Det løber af stablen lørdag, den 30. september 2017 kl. 18.00.
+Derudover sætter **Patrick** sig ved guitaren og giver nogle flere numre. 
+
+Vores lokale kor **ARKEN** vil ligeledes glæde os med strofer fra Kim Larsens uendelige repertoire.
+
+Kom og del denne dejlige aften sammen med os.
 
 Prisen for deltagelse er:
 
-Kr. 99,00 for voksne
-kr. 50,00 for børn under 12 år.
+Kr. 100,00 hvori er inkluderet 1 øl eller 1 sodavand.
 
-Tilmelding kan ske på tlf. 48 28 65 40 eller 61 30 18 24.
+Billetter kan bestilles på tlf. 48 28 65 40 eller 61 30 18 24. På mail [cafe.bjerregaard@gmail.com](mailto:cafe.bjerregaard@gmail.com), på [kulsviergaarden@kulsviergaarden.dk](mailto:kulsviergaarden@kulsviergaarden.dk).
 
-Betaling sker ved tilmelding (konto nr. oplyses ved tilmelding).
-
-Sidste tilmelding er den 26. september 2017. 
+Billetterne forudbetales på mobilepay eller bankoverførsel (nummer sendes ved tilmelding) 
