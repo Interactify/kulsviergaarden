@@ -7,4 +7,6 @@ date: 2018-10-29
 layout: default
 ---
 
-Torsdag den 29. nov. 2018 kl. 19.00 på Kulsviergården
+**Torsdag den 29. nov. 2018 kl. 19.00 på Kulsviergården
+**
+Parkinsonforeningen Nordsjælland indbyder til dette forrygende foredrag med Chris MacDonald.
