@@ -7,8 +7,8 @@ date: 2018-10-29
 layout: default
 ---
 
-**Torsdag den 29. nov. 2018 kl. 19.00 på Kulsviergården
-**
+## Torsdag den 29. nov. 2018 kl. 19.00 på Kulsviergården
+
 Parkinsonforeningen Nordsjælland indbyder til dette berigende foredrag med Chris MacDonald.
 
 Chris taler åbent og med humor om udfordringer, som både han og alle vi andre har med sundhed. Du går glad hjem med mod på et sundere og mere energisk liv.
