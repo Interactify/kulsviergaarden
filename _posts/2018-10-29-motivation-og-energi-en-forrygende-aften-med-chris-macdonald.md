@@ -3,7 +3,7 @@ content_image: /images/uploads/chris-macdonald.jpg
 title: Motivation og Energi - en forrygende aften med Chris MacDonald
 categories: Nyheder
 cmsUserSlug: ""
-date: null
+date: 2018-10-29 
 layout: default
 ---
 
