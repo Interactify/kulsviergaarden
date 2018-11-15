@@ -3,7 +3,7 @@ content_image: /images/uploads/24312700_10154871988240957_2676009497129504791_n.
 title: Juletræfest den 2. december 2018
 categories: Nyheder
 cmsUserSlug: ""
-date: 2017-10-29T00:00:00.000Z
+date: 2018-11-15 
 layout: default
 ---
 
