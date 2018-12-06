@@ -18,4 +18,3 @@ Bemærk venligst at det ikke er tilladt at medbringe egne mad og drikkevarer.
 
 Dagens ret, smørrebrød, kaffe og kage kan købes til meget rimelige priser i caféen.
 
-L
