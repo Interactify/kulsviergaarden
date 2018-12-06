@@ -22,6 +22,6 @@ Kl. 8.30 - 15.00
 
 Servicemedarbejder:
 
-Vibeke Andersen og Anja Andersen
+Vibeke Andersen (selskabslokalerne), Dan Schødt (idrætsfaciliteterne) og Anja Andersen
 
 
