@@ -14,7 +14,7 @@ Dørene åbnes kl. 16.30 og spillet går i gang kl. 18.30.
 
 Nærmere information omkring medlemskort med mere, kan skaffes hos Ulla Hautop på tlf. 20 46 11 59 eller på [hautopulla@gmail.com](mailto:hautopulla@mail.com)
 
-Bemærk venligst at det ikke er tilladt at medbringe egne mad og drikkevarer. 
+Bemærk venligst at det ikke er tilladt at medbringe egne mad-  og drikkevarer. 
 
 Dagens ret, smørrebrød, kaffe og kage kan købes til meget rimelige priser i caféen.
 
