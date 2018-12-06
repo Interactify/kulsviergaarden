@@ -8,7 +8,7 @@ menu-name: Fredagsbanko
 date: 2016-06-23T00:00:00.000Z
 ---
 
-Kulsviergårdens fredagsbanko afvikles af bankoforeningen Trekløveren, som udelukkende drives af frivillige hjælpere.
+Kulsviergårdens fredagsbanko udelukkende drives af frivillige hjælpere.
 
 Dørene åbnes kl. 16.30 og spillet går i gang kl. 18.30.
 
@@ -18,4 +18,4 @@ Bemærk venligst at det ikke er tilladt at medbringe egne mad og drikkevarer.
 
 Dagens ret, smørrebrød, kaffe og kage kan købes til meget rimelige priser i caféen.
 
-Læs mere her: [www.bankospil.dk](http://www.bankospil.dk/).
+L
