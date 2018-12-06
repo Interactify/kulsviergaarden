@@ -16,11 +16,13 @@ Rasmus Mortensen
 
 Kristian Thorup
 
-Rene Holm Hansen
+Lene Riis
+
+Olina Jægergaard
 
 Ulrik Ditlev Bolm-Spohr
 
 Gert Dyrløv Andersen
 
-Olina Jægergaard
+
 
