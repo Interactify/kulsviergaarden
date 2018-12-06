@@ -8,7 +8,7 @@ menu-name: Fredagsbanko
 date: 2016-06-23T00:00:00.000Z
 ---
 
-Kulsviergårdens fredagsbanko udelukkende drives af frivillige hjælpere.
+Kulsviergårdens fredagsbanko drives udelukkende af frivillige hjælpere.
 
 Dørene åbnes kl. 16.30 og spillet går i gang kl. 18.30.
 
