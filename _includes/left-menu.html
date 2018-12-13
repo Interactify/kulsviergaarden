@@ -99,6 +99,18 @@
         </div>
 
         <div class="mSection">
+            <div class="headline">Begivenheder på gården</div>
+            {% assign sorted_pages = (site.begivenheder | sort: 'orderby') %}
+            <div id="hbegivenheder" class="mlinks">
+                {% for my_page in sorted_pages %}
+                    {% if my_page.menu-name %}
+                        <div class="link"><a href="{{ my_page.url | prepend: site.baseurl }}" class="page-link">- {{ my_page.menu-name }}</a></div>
+                    {% endif %}
+                {% endfor %}
+            </div>
+        </div>
+
+        <div class="mSection">
             <div class="headline">Loppemarked Kr. Himmelfartsdag</div>
             {% assign sorted_pages = (site.loppemarked | sort: 'orderby') %}
             <div id="hloppemarked" class="mlinks">

@@ -50,4 +50,7 @@ collections:
         permalink: /:path/
     nyhedskasse:
         output: true
+    begivenheder:
+        output: true
+        permalink: /begivenheder/:path/
     
