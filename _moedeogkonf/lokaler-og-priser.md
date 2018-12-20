@@ -8,7 +8,7 @@ menu-name: Lokaler og priser
 date: 2016-06-23T00:00:00.000Z
 ---
 
-**Kapacitet**
+**Kapacitet:**
 
 Teatersalen: 250 personer. Prisen for salen er kr. 4.294,00.
 
