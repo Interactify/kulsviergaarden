@@ -10,7 +10,7 @@ date: 2016-06-23T00:00:00.000Z
 
 **Kapacitet:**
 
-Teatersalen: 250 personer. Prisen for salen er kr. 4.294,00.
+Teatersalen: Op til 200-250 personer. Prisen for salen er kr. 4.294,00.
 
 Kulsviersalen: 145 personer. Prisen for salen er kr. 2.270,00.
 
