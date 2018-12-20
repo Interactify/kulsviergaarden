@@ -19,7 +19,7 @@ Vi vil gerne her takke vores trofast reklamesponsorer, som er med til at gøre d
 * Engrospriser ApS [www.engrospriser.dk](https://engrospriser.dk)
 * 10Kanten A/S [www.10kanten.dk](https://www.10kanten.dk)
 * Kontorland A/S [www.kontorland.dk](https://www.kontorland.dk/)
-* Nordtag A/S
+* Nordtag A/S [www.nordtag.dk](https://www.nordtag.dk)
 * GDA Tømmer og Snedkermester
 * PM Belægning ApS
 * Dines Jørgensen og Co. A/S
