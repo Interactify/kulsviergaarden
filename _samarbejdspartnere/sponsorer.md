@@ -21,7 +21,7 @@ Vi vil gerne her takke vores trofast reklamesponsorer, som er med til at gøre d
 * Kontorland A/S [www.kontorland.dk](https://www.kontorland.dk/)
 * Nordtag A/S [www.nordtag.dk](https://www.nordtag.dk)
 * GDA Tømmer og Snedkermester [www.g-d-a.dk](http://www.g-d-a.dk)
-* PM Belægning ApS
+* PM Belægning ApS [www.pmbelaegning.dk](http://www.pmbelaegning.dk)
 * Dines Jørgensen og Co. A/S
 * Hallum Elektric
 
