@@ -1,5 +1,5 @@
 ---
-title: Ny begivenhed
+title: Kulsvierscenen opfører Hodja fra Pjort
 content-image: null
 cmsUserSlug: ""
 permalink: null
@@ -8,4 +8,4 @@ menu-name: Ny begivenhed
 date: 2018-12-01T00:00:00.000Z
 ---
 
-test begivenhed
+test
