@@ -22,7 +22,7 @@ Vi vil gerne her takke vores trofast reklamesponsorer, som er med til at gøre d
 * Nordtag A/S [www.nordtag.dk](https://www.nordtag.dk)
 * GDA Tømmer og Snedkermester [www.g-d-a.dk](http://www.g-d-a.dk)
 * PM Belægning ApS [www.pmbelaegning.dk](http://www.pmbelaegning.dk)
-* Dines Jørgensen og Co. A/S
+* Dines Jørgensen og Co. A/S [dj-co.dk](https://dj-co.dk)
 * Hallum Elektric
 
 
