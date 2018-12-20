@@ -1,6 +1,6 @@
 ---
 title: Nyheder
-content-image: /images/uploads/nyheder/hodja-fra-pjort.jpg
+content-image: /images/uploads/hodja-fra-pjort-2.jpg
 cmsUserSlug: ""
 permalink: null
 layout: default
