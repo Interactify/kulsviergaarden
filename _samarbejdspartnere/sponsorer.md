@@ -12,7 +12,7 @@ Vi vil gerne her takke vores trofast reklamesponsorer, som er med til at gøre d
 
 * J. Jensen Nedrivning A/S [www.j-jensen.com](https://j-jensen.com/)
 * Claus Larsen VVS Tulstrup
-* Revisionsfirmaet Døssing og Partnere
+* Revisionsfirmaet Døssing og Partnere [www.dossing.dk](http://www.dossing.dk/)
 * VVS Allan Kristiansen og Sønner ApS
 * HHM A/S
 * Humlenu (Nu Ambrosia Group)
