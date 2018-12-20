@@ -20,7 +20,7 @@ Vi vil gerne her takke vores trofast reklamesponsorer, som er med til at gøre d
 * 10Kanten A/S [www.10kanten.dk](https://www.10kanten.dk)
 * Kontorland A/S [www.kontorland.dk](https://www.kontorland.dk/)
 * Nordtag A/S [www.nordtag.dk](https://www.nordtag.dk)
-* GDA Tømmer og Snedkermester
+* GDA Tømmer og Snedkermester [www.g-d-a.dk](http://www.g-d-a.dk)
 * PM Belægning ApS
 * Dines Jørgensen og Co. A/S
 * Hallum Elektric
