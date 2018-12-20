@@ -21,5 +21,4 @@ Nærmere information omkring mandagsbanko og fredagsbanko hos Ulla Hautop på tl
 
 Caféen er åben, når der spilles banko. Der serveres dagens ret, smørrebrød, lækre kager, øl og vand til meget rimelige priser.
  
-**OBS: Det er ikke tilladt at medbringe egne mad/- og drikkevarer. 
-**
+**OBS: Det er ikke tilladt at medbringe egne mad/- og drikkevarer**. 
