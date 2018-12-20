@@ -14,7 +14,7 @@ Kulsviergården har 3 dejlige lyse lokaler og en stor sportshal, der kan lejes b
 
 **Kapacitet**
 
-Teatersalen: 250 personer. Prisen for salen er kr. 8.486,00.
+Teatersalen: Op til 200-250 personer. Prisen for salen er kr. 8.486,00.
 
 Kulsviersalen: 145 personer. Prisen for salen er kr. 5.110,00.
 
