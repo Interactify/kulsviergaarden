@@ -16,7 +16,7 @@ Tlf.: 48 28 65 40
 
 Telefontid mandag og torsdag
 
-Kl. 8.30 - 16.00
+Kl. 8.30 - 15.00
 
 [kulsviergaarden@kulsviergaarden.dk](mailto:kulsviergaarden@kulsviergaarden.dk)
 
