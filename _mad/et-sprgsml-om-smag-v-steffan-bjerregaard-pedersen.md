@@ -1,5 +1,5 @@
 ---
-title: Kulsviergården har egne kokke
+title: Kulsviergården har egne tilknyttede kokke
 content-image: null
 cmsUserSlug: ""
 permalink: null
