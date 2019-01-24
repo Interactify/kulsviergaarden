@@ -5,7 +5,7 @@ cmsUserSlug: ""
 permalink: null
 layout: default
 menu-name: Kulsviergården har egne tilknyttede kokke
-date: 2019-01-24 
+date: 2019-01-24T00:00:00.000Z
 ---
 
 Ønsker du at høre om mulighederne for bespisning her på Kulsviergården, så skriv endelig til os.
