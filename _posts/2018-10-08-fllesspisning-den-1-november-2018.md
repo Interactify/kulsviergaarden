@@ -3,7 +3,7 @@ content_image: /images/uploads/stroganoff-og-kartoffelmos-opskrift.jpg
 title: Fællesspisning den 7. marts 2019 på Kulsviergården
 categories: Nyheder
 cmsUserSlug: ""
-date: 2018-10-28T00:00:00.000Z
+date: 2019-02-07 
 layout: default
 ---
 
