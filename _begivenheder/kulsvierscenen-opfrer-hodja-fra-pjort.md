@@ -4,8 +4,8 @@ content-image: /images/uploads/julefrokost-23-november-kl-1900/ps2duo.jpg
 cmsUserSlug: ""
 permalink: null
 layout: default
-menu-name: Hodja fra Pjort
-date: 2018-12-20T00:00:00.000Z
+menu-name: Julefrokost
+date: 2019-10-14 
 ---
 
 Julefrokosten afholdes i år som fællesspisning hvor alle kan være med, private som firmaer,vi vil diske op med julemad. 
