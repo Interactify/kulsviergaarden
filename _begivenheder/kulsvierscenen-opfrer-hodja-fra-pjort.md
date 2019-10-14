@@ -8,13 +8,16 @@ menu-name: Julefrokost
 date: 2019-10-14 
 ---
 
-Julefrokosten afholdes i år som fællesspisning hvor alle kan være med, private som firmaer,vi vil diske op med julemad. 
+Julefrokosten afholdes i år som fællesspisning ( kun voksne) hvor alle kan være med, private som firmaer.
+ 
+Vi vil diske op med julemad.
+ 
 Tilmelding modtages allerede nu på.
 
 Mail: cafe.bjerregaard@gmail.com
 Telefon 61301824.
 Prisen er 219 kr. pr. person.
-Drikkevare kan købes.
+Drikkevarer kan købes.
 
 Musikken leveres af PS2DUO Live musik i topklasse.
 
