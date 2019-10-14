@@ -1,6 +1,6 @@
 ---
-title: Kulsvierscenen opfører Hodja fra Pjort
-content-image: /images/uploads/kulsvierscenen-opfrer-hodja-fra-pjort/hodja-fra-pjort.jpg
+title: "Julefrokost. 23 November Kl. 19:00"
+content-image: /images/uploads/julefrokost-23-november-kl-1900/ps2duo.jpg
 cmsUserSlug: ""
 permalink: null
 layout: default
@@ -8,8 +8,26 @@ menu-name: Hodja fra Pjort
 date: 2018-12-20T00:00:00.000Z
 ---
 
-Kom og oplev Sebastians musical om drengen Hodja, hvis højeste ønske er at komme ud og se verden. En gammel tæppehandler forærer ham et flyvende tæppe, men onde kræfter vil stjæle det fra ham, og han må trodse mange farer i forsøget på at få det tilbage, men som i et rigtigt eventyr ender alt heldigvis lykkeligt.  
+Julefrokosten afholdes i år som fællesspisning hvor alle kan være med, private som firmaer,vi vil diske op med julemad. 
+Tilmelding modtages allerede nu på.
 
-Billetter og evt. mad/kaffe/kage bestilles via billetten.dk 
+Mail: cafe.bjerregaard@gmail.com
+Telefon 61301824.
+Prisen er 219 kr. pr. person.
+Drikkevare kan købes.
 
-Se datoer og yderligere info på www.kulsvierscenen.dk 
+Musikken leveres af PS2DUO Live musik i topklasse.
+
+Menu: 
+
+2 slags sild.
+Fiskefilet med remoulade og citron.
+Æg og rejer.
+Flæskesteg med surt.
+Roastbeef med tilbehør.
+Leverpostej med bacon og champignon.
+Hj. frikadeller med surt
+2 slags ost
+Ris a la mande.
+Maden Leveres af 
+Steffan og Mai-Britt
