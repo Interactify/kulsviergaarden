@@ -5,7 +5,7 @@ cmsUserSlug: ""
 permalink: null
 layout: default
 menu-name: Ny begivenhed
-date: 2018-12-01T00:00:00.000Z
+date: 2019-10-14 
 ---
 
 Torsdag d. 7. November kl. 18:00
