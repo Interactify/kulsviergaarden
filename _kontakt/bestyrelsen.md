@@ -8,17 +8,17 @@ menu-name: Bestyrelsen
 date: 2016-06-23T00:00:00.000Z
 ---
 
-Carsten Lynge (formand)
+John Rand (formand)
 
-John Rand (næstformand)
+Kristian Thorup (næstformand)
 
 Rasmus Mortensen
 
-Kristian Thorup
+Dorte Eriksen
 
 Lene Riis
 
-Olina Jægergaard
+Henrik Østergaard
 
 Ulrik Ditlev Bolm-Spohr
 
