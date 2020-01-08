@@ -10,13 +10,23 @@ date: 2016-06-14T00:00:00.000Z
 
 Administration
 
-Betty Andersen
+Mai-Britt Bjerregaard
 
 Tlf.: 48 28 65 40
 
-Telefontid mandag og torsdag
+Telefontid Onsdag 
 
-Kl. 8.30 - 15.00
+ 8.30 - 15.00
+
+Regnskab og Økonomi
+
+Ulla Lund Nielsen
+
+Telefontid Fredag
+
+8.30 - 15.00
+
+Tlf.: 48286540
 
 [kulsviergaarden@kulsviergaarden.dk](mailto:kulsviergaarden@kulsviergaarden.dk)
 
