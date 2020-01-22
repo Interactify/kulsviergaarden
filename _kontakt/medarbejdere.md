@@ -5,7 +5,7 @@ cmsUserSlug: ""
 permalink: null
 layout: default
 menu-name: Medarbejdere
-date: 2020-01-08 
+date: 2020-01-08T00:00:00.000Z
 ---
 
 Administration
