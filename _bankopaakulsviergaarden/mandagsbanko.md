@@ -14,7 +14,7 @@ Den samlede gevinst-sum er over kr. 40.000,00 hver gang.
 
 Mandagsbanko tilbyder buskørsel. Kontakt evt. Ulla Hautop på tlf. 20 46 11 59 eller på [hautopulla@gmail.com](mailto:hautopulla@mail.com)  for nærmere oplysninger.
 
-Dørene åbnes kl. 17.00 og spillet starter kl. 19.00. 
+Dørene åbnes kl. 17.00 og spillet starter kl. 19.00
 
 Bemærk venligst at det ikke er tilladt at medbringe egne mad- og drikkevarer. 
 
